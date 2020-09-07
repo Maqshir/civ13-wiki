@@ -402,7 +402,7 @@ plastics, so let's start drilling!
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/oil_spring.png"></td>
+<td width="5%"><img src="assets/images/oil_spring.png"></td>
 <td><b>Oil spring</b></td>
 <td>A spot where an oil deposit reaches the surface of the earth, allowing the collection of crude oil with any containers that could hold liquids: buckets, barrels etc. Click the oil spring with a container, and you will fill it with 10 units of oil. The oil spring will refill presently. Before the advent of engines and machines, crude oil is mostly used as fuel for lamps and lanterns, or as a handy tool by scheming poisoners in royal courts. Yes, drinking oil is bad for health. Very bad.</td>
 </tr>
