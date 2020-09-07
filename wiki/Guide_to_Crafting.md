@@ -32,6 +32,8 @@ machinery and vehicles.
   - **[Guide to Ranching](Guide_to_Ranching "wikilink")** - includes the
     list of animals, many of which provide various materials for
     crafting.
+    
+   - **[Guide to Construction](Construction "wikilink")** - details on constructing walls, floors, doors etc.
 
 ## Basics
 
@@ -98,7 +100,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#Surgery">Guide to Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#surgery">Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png"></td>
@@ -237,7 +239,7 @@ tile.
 
 When you have piles of dirt or snow, you can use them right away to
 build barricades and walls. Refer to the
-**[Construction](#Construction "wikilink")** section for more details.
+**[Construction](Construction "wikilink")** section for more details.
 
 <table>
 <tbody>
@@ -267,7 +269,7 @@ rock. Time to hollow out the earth and put them to good use!
 <b>Smelting</b>
 
 Some ores must be processed before crafting, which is done by smelting
-them in **[Campfire, Ovens and Furnace](#Campfire,_Ovens_and_Furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
+them in **[Campfire, Ovens and Furnace](#campfire-ovens-and-furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
 ores produces ingots, which are a material that could be used for
 crafting.
 
@@ -279,67 +281,48 @@ holding a hammer in the other hand.
 <tbody>
 <tr>
 <td><b>Metals</b></td>
-<td></td>
-</tr><tr>
+</tr><tr align="center">
 <td><img src="assets/images/ore_copper.png"><img src="assets/images/sheet_copper.png"></td>
-<td>Copper</td>
-</tr><tr>
 <td><img src="assets/images/ore_tin.png"><img src="assets/images/sheet_tin.png"></td>
-<td>Tin</td>
-</tr><tr>
 <td><img src="assets/images/ore_iron.png"><img src="assets/images/sheet_iron.png"></td>
-<td>Iron</td>
-</tr><tr>
 <td><img src="assets/images/ore_lead.png"><img src="assets/images/sheet_lead.png"></td>
-<td>Lead</td>
-</tr><tr>
 <td><img src="assets/images/ore_gold.png"><img src="assets/images/sheet_gold.png"></td>
-<td>Gold</td>
-</tr><tr>
 <td><img src="assets/images/ore_silver.png"><img src="assets/images/sheet_silver.png"></td>
-<td>Silver</td>
-</tr><tr>
 <td><img src="assets/images/ore_mercury.png"></td>
-<td>Mercury</td>
-</tr><tr>
 <td><img src="assets/images/ore_platinum.png"></td>
-<td>Platinum</td>
-</tr><tr>
 <td><img src="assets/images/ore_uranium.png"></td>
-<td>Uranium</td>
 </tr>
-</tbody>
-</table>
-
-
-<table>
-<tbody>
+<tr align="center">
+<td><b><a href="Full_Crafting_List#copper">Copper</a></b></td>
+<td><b><a href="Full_Crafting_List#tin">Tin</a></b></td>
+<td><b><a href="Full_Crafting_List#iron">Iron</a></b></td>
+<td><b><a href="Full_Crafting_List#lead">Lead</a></b></td>
+<td><b><a href="Full_Crafting_List#gold">Gold</a></b></td>
+<td><b><a href="Full_Crafting_List#silver">Silver</a></b></td>
+<td><b>Mercury</b></td>
+<td><b>Platinum</b></td>
+<td><b>Uranium</b></td>
+</tr>
 <tr>
 <td><b>Others</b></td>
-<td></td>
-</tr><tr>
+</tr><tr align="center">
 <td><img src="assets/images/sheet_stone.png"></td>
-<td>Stone</td>
-</tr><tr>
 <td><img src="assets/images/ore_sandstone.png"></td>
-<td>Sandstone*</td>
-</tr><tr>
 <td><img src="assets/images/ore_coal.png"></td>
-<td>Mineral coal</td>
-</tr><tr>
 <td><img src="assets/images/ore_saltpeter.png"></td>
-<td>Saltpeter</td>
-</tr><tr>
 <td><img src="assets/images/ore_sulphur.png"></td>
-<td>Sulphur</td>
-</tr><tr>
 <td><img src="assets/images/ore_diamond.png"><img src="assets/images/sheet_diamond.png"></td>
-<td>Diamonds</td>
-</tr><tr>
 <td><img src="assets/images/ore_obsidian.png"><img src="assets/images/sheet_obsidian.png"></td>
-<td>Obsidian*</td>
 </tr>
-
+<tr align="center">
+<td><b><a href="Full_Crafting_List#stone">Stone</a></b></td>
+<td><b><a href="Full_Crafting_List#sandstone">Sandstone*</a></b></td>
+<td><b>Mineral coal</b></td>
+<td><b>Saltpeter</b></td>
+<td><b>Sulphur</b></td>
+<td><b>Diamonds</b></td>
+<td><b>Obsidian*</b></td>
+</tr>
 </tbody>
 </table>
 
