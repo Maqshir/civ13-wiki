@@ -577,12 +577,10 @@ item's name.
 <td><b>Recycling</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
-<b>Furnace</b></td>
+<td><b>1 knife, spoon or fork => 1 ingot of a respective material</b></td>
 </tr>
 <tr>
-<td><b>1 knife, spoon or fork => 1 ingot of a respective material</b><br>
-<b>Tin can<img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b></td>
+<td><b>Tin can<img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b></td>
 </tr>
 </tbody>
 </table>
@@ -597,7 +595,7 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/loom.png">
+<td><img src="assets/images/loom.png"><br>
 <b>Loom</b></td>
 <td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <a href="Full_Crafting_List#cloth">cloth</a> and to turn shorn wool into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
 </tr>
@@ -609,7 +607,7 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/drying_rack.png">
+<td width="10%"><img src="assets/images/drying_rack.png"><br>
 <b>Tanning rack</b></td>
 <td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
 </tr>
@@ -913,7 +911,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/refinery.png"></td>
+<td width="5%"><img src="assets/images/refinery.png"></td>
 <td><b>Petroleum refinery</b></td>
 <td><b>Production rate:</b> every 10 units of raw petroleum => 8 units of gasoline or 7 units of diesel per 1 minute</td>
 <td>Made with 22 steel sheets. Used to distill crude oil into gasoline and diesel.</td>
@@ -945,7 +943,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/bakelizer.png"></td><td>
+<td width="5%"><img src="assets/images/bakelizer.png"></td><td>
 <b>Bakelizer</b></td>
 <td><b>Production rate:</b> every 5 units of raw petroleum => 1 plastic sheet per 1 minute</td><td>
 Made with 18 steel sheets. Used to produce <b><a href="Full_Crafting_List#plastic">Plastic</a></b> from raw petroleum.</td>
