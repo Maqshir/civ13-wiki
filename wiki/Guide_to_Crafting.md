@@ -521,7 +521,7 @@ Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
+<td><img src="assets/images/furnace.png"><img src="assets/images/clay_brick_furnace.png">
 <b>Furnace</b></td>
 <td>The furnace has a different purpose. It is used to produce steel sheets
 from iron, to alloy metals and to recycle some of the metallic items
@@ -619,7 +619,7 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/retting_trough.png">
+<td width="10%"><img src="assets/images/retting_trough.png"><br>
 <b>Retting trough</b></td>
 <td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">cloth</a></b> at the <b><a href="Guide_to_Crafting#loom">loom</a></b>.</td>
 </tr>
@@ -881,7 +881,7 @@ ingots).
 Build both the furnace and the engine, and place them next to each other, in neighbouring tiles. Add fuel to the furnace and click the furnace to light the fire. Now click the steam engine to start it. As long as the furnace has fire burning and remains next to the engine, the engine will keep working.</td>
 </tr>
 <tr>
-<td><img src="assets/images/engine_hotbulb.png"></td>
+<td width="5%"><img src="assets/images/engine_hotbulb.png"></td>
 <td><b>Hot bulb engine</b></td>
 <td><b>Power:</b> 66</td>
 <td><b>Fuel:</b> oil, gasoline, diesel, biodiesel, ethanol, olive oil</td>
