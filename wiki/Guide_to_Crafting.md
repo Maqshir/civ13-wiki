@@ -595,8 +595,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/loom.png"><br>
-<b>Loom</b></td>
+<td width="5%"><img src="assets/images/loom.png"></td>
+<td width="10%"><b>Loom</b></td>
 <td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> and to turn shorn wool into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 </tbody>
@@ -607,8 +607,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/drying_rack.png"><br>
-<b>Tanning rack</b></td>
+<td width="5%"><img src="assets/images/drying_rack.png"></td>
+<td width="10%"><b>Tanning rack</b></td>
 <td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
 </tr>
 </tbody>
@@ -619,8 +619,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/retting_trough.png"><br>
-<b>Retting trough</b></td>
+<td width="5%"><img src="assets/images/retting_trough.png"></td>
+<td width="10%"><b>Retting trough</b></td>
 <td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting#loom">loom</a></b>.</td>
 </tr>
 </tbody>
@@ -631,8 +631,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td width="10%"><img src="assets/images/acidic_bath.png"><br>
-<b>Acidic bath</b></td>
+<td width="5%"><img src="assets/images/acidic_bath.png"></td>
+<td width="10%"><b>Acidic bath</b></td>
 <td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum).</td>
 </tr>
 </tbody>
@@ -643,8 +643,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/anvil.png">
-<b>Anvil</b></td>
+<td width="5%"><img src="assets/images/anvil.png"></td>
+<td width="10%"><b>Anvil</b></td>
 <td><b>Skill required: 1.7</b><br />
 Made with 25 iron ingots. Used to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <b><a href="Guide_to_Weapons">Guide to Weapons</a></b> for more information on specific weapons and their availability in different ages.</td>
 </tr>
@@ -656,8 +656,8 @@ Made with 25 iron ingots. Used to forge weapons across the centuries, from ancie
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/armorbench.png">
-<b>Armorsmithing bench</b></td>
+<td width="5%"><img src="assets/images/armorbench.png"></td>
+<td width="10%"><b>Armorsmithing bench</b></td>
 <td><b>Skill required: 1.7</b><br />
 Made with 10 wood logs and 3 iron ingots. Used to forge bronze and iron armor. Take some iron or bronze ingots and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the iron or bronze you have put on it.</td>
 </tr>
@@ -669,10 +669,10 @@ Made with 10 wood logs and 3 iron ingots. Used to forge bronze and iron armor. T
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/armorbench_specialist.png">
-<b>Specialist armor bench</b></td>
+<td width="5%"><img src="assets/images/armorbench_specialist.png"></td>
+<td width="10%"><b>Specialist armor bench</b></td>
 <td><b>Skill required: 1.7</b><br />
-Made with 15 iron ingots. Used to produce steel and kevlar armor. Take some steel or kevlar sheets and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the steel or kevlar you have put on it. See <b><a href="#acidic-bath">Acidic bath</a></b> about making kevlar.</td>
+Made with 15 iron ingots. Used to produce steel and kevlar armor. Take some steel or kevlar sheets and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the steel or kevlar you have put on it. See <b><a href="#acidic-bath">acidic bath</a></b> about making kevlar.</td>
 </tr>
 </tbody>
 </table>
@@ -682,8 +682,8 @@ Made with 15 iron ingots. Used to produce steel and kevlar armor. Take some stee
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/gunbench.png">
-<b>Gunsmithing bench</b></td>
+<td width="5%"><img src="assets/images/gunbench.png"></td>
+<td width="10%"><b>Gunsmithing bench</b></td>
 <td><b>Skill required: 1.5 + Blueprint</b><br />
 Made with 13 wood logs. Used to assemble custom firearms from separate parts starting from the Early Modern age (1903) and to rechamber guns to a different caliber (click the bench with the gun).
 <ul>
@@ -696,8 +696,8 @@ Made with 13 wood logs. Used to assemble custom firearms from separate parts sta
 </ul></td>
 </tr>
 <tr>
-<td><img src="assets/images/blueprint.png">
-<b>Blueprint</b></td>
+<td width="5%"><img src="assets/images/blueprint.png"></td>
+<td width="10%"><b>Blueprint</b></td>
 <td><b>Skill required: 2.5 + 50 gold coins (or equivalent)</b><br />
 A weapon blueprint is produced every time you design and assemble a firearm at the gunsmithing bench. A blueprint could be used to assemble the previously designed firearm by someone with the lower skill level.</td>
 </tr>
