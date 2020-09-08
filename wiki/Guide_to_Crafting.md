@@ -521,8 +521,8 @@ Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/furnace.png"><img src="assets/images/clay_brick_furnace.png">
-<b>Furnace</b></td>
+<td><img src="assets/images/furnace.png"><img src="assets/images/clay_brick_furnace.png"></td>
+<td><b>Furnace</b></td>
 <td>The furnace has a different purpose. It is used to produce steel sheets
 from iron, to alloy metals and to recycle some of the metallic items
 back into metal ingots for further use. It is operated similarly to the
