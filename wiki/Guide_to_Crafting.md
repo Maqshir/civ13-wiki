@@ -180,7 +180,7 @@ There are two main ways to obtain
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/sheet_wood.png"></td>
+<td width="5%"><img src="assets/images/sheet_wood.png"></td>
 <td><b>Wood log</b></td>
 <td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
 </tr>
@@ -206,7 +206,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
+<td width="5%"><img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
 <td><b>Furs and Pelts</b></td>
 <td>Obtained from various animals (check the <b><a href="Full_Crafting_List">Full Crafting List</a></b>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
 </tr>
