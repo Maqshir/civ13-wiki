@@ -626,6 +626,18 @@ level of the crafting skill before you are able to use them.
 </tbody>
 </table>
 
+### Acidic bath
+
+<table>
+<tbody>
+<tr>
+<td width="10%"><img src="assets/images/acidic_bath.png"><br>
+<b>Acidic bath</b></td>
+<td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum).</td>
+</tr>
+</tbody>
+</table>
+
 ### Anvil
 
 <table>
@@ -634,7 +646,33 @@ level of the crafting skill before you are able to use them.
 <td><img src="assets/images/anvil.png">
 <b>Anvil</b></td>
 <td><b>Skill required: 1.7</b><br />
-Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <b><a href="Guide_to_Weapons">Guide to Weapons</a></b> for more information on specific weapons and their availability in different ages.</td>
+Made with 25 iron ingots. Used to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <b><a href="Guide_to_Weapons">Guide to Weapons</a></b> for more information on specific weapons and their availability in different ages.</td>
+</tr>
+</tbody>
+</table>
+
+### Armorsmithing bench
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/armorbench.png">
+<b>Armorsmithing bench</b></td>
+<td><b>Skill required: 1.7</b><br />
+Made with 10 wood logs and 3 iron ingots. Used to forge bronze and iron armor. Take some iron or bronze ingots and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the iron or bronze you have put on it.</td>
+</tr>
+</tbody>
+</table>
+
+### Specialist armor bench
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/armorbench_specialist.png">
+<b>Specialist armor bench</b></td>
+<td><b>Skill required: 1.7</b><br />
+Made with 15 iron ingots. Used to produce steel and kevlar armor. Take some steel or kevlar sheets and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the steel or kevlar you have put on it. See <b><a href="#acidic-bath">Acidic bath</a></b> about making kevlar.</td>
 </tr>
 </tbody>
 </table>
