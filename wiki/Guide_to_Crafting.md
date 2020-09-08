@@ -208,21 +208,21 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <tr>
 <td><img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
 <td><b>Furs and Pelts</b></td>
-<td>Obtained from various animals (check the <a href="Full_Crafting_List">Full crafting List</a>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
+<td>Obtained from various animals (check the <b><a href="Full_Crafting_List">Full Crafting List</a></b>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
 </tr>
 <tr>
 <td><img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png"></td>
 <td><b>Wool and Woolcloth</b></td>
-<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
+<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leather.png"></td>
-<td><b>Leather</b></td>
+<td><b><a href="Full_Crafting_List#leather">Leather</a></b></td>
 <td>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone.png"></td>
-<td><b>Bone</b></td>
+<td><b><a href="Full_Crafting_List#bone">Bone</a></b></td>
 <td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
 </tr>
 </tbody>
@@ -597,7 +597,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td><img src="assets/images/loom.png"><br>
 <b>Loom</b></td>
-<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <a href="Full_Crafting_List#cloth">cloth</a> and to turn shorn wool into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
+<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> and to turn shorn wool into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 </tbody>
 </table>
@@ -621,7 +621,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="10%"><img src="assets/images/retting_trough.png"><br>
 <b>Retting trough</b></td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">cloth</a></b> at the <b><a href="Guide_to_Crafting#loom">loom</a></b>.</td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting#loom">loom</a></b>.</td>
 </tr>
 </tbody>
 </table>
@@ -651,7 +651,7 @@ Made with 13 wood logs. Used to assemble custom firearms from separate parts sta
 <ul>
 <li>Take some steel sheets and wood logs and click the bench with them.</li>
 <li>If you have a weapon blueprint, click the bench with it to assemble that weapon.</li>
-<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 500 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
+<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 50 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
 <li>You will see the list of weapon parts and the amount of materials you have placed. You need to choose a different part at every step. The increase in the material cost, compared to the amount of materials at hand, is displayed after each step. See the tables below for more information on specific parts and their availability in different ages.</li>
 <li>When you have finished choosing the parts, you can select whether you want to use a specific design for the weapon.</li>
 <li>Name the firearm to finish the assembly. The blueprint will also be named the same as the weapon.</li>
@@ -721,8 +721,7 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tbody>
 <tr>
 <td><img src="assets/images/arrow_shaft.png">
-<b>Arrow shaft</b></td>
-<td><img src="assets/images/arrow_fire.png">
+<b>Arrow shaft</b>&emsp;<img src="assets/images/arrow_fire.png">
 <b>Fire arrow</b></td>
 <td></td>
 </tr>
@@ -1118,7 +1117,7 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
     North to build tracks like those in the front, or South to build
     them like those in the back.
 
-4.  Construct an **[engine](#Engines "wikilink")** with a fuel tank.
+4.  Construct an **[engine](#engines "wikilink")** with a fuel tank.
 
       - It is important to make an engine of an appropriate size that
         produces enough power to carry a tank and its load. A weak
