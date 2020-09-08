@@ -83,7 +83,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png"></td>
+<td width="5%"><img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png"></td>
 <td><b>Stick</b></td>
 <td>The humble beginnings of a future industrial superpower... First, harvest a branch by clicking a tree on Harm intent. Next, click the branch on Grab intent to remove the leaves, then click it again on Harm intent to clear the twigs. Voila! The first leap on the path of Progress has been made! Now the stick could be sharpened with a sharpened flint or a knife - click the stick with it. A sharpened stick could be used to catch fish (click fish tiles) or ants (click anthills); it could also be used to make a flint axe (see below.)</td>
 </tr>
@@ -521,7 +521,7 @@ Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/furnace.png"></td>
+<td width="5%"><img src="assets/images/furnace.png"></td>
 <td><b>Furnace</b></td>
 <td>The furnace has a different purpose. It is used to produce steel sheets
 from iron, to alloy metals and to recycle some of the metallic items
