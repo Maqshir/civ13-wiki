@@ -255,3 +255,14 @@ Torches will last for **5 minutes** and then burn out.
 For a more **permanent** light source, you can build **braziers** from
 **stone**. You can fuel it with any organic matter like wood or
 clothing, simply use items on the brazier on **help intent**.
+
+## Additional info
+### Status tab
+The Status tab has some general info about the ongoing round, both OOC and IC, namely:
+- number of players
+- round duration
+- current map
+- current mode (usually states **[research](Civilizations_and_Nomads#research "wikilink")** mode)
+- current epoch
+- current wind (important if you are sailing)
+- time of day
