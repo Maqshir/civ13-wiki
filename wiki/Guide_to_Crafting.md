@@ -873,7 +873,7 @@ taken into account:
 
   - **Power per 1 litre (1000 cm<sup>3</sup>)** - the power produced by
     a given type of engine per every 1000 cc of its size. This is the
-    meaning behind the number in an engine's description. **For the game mechanic purposes, the value of the engine power is doubled when an engine is installed on a modular vehicle.**
+    meaning behind the number in an engine's description in the list below. **For the game mechanic purposes, the value of the engine power is doubled when an engine is installed on a modular vehicle.**
 
 The power affects how many pieces of machinery could be powered by an
 engine if used as a generator, or, if used as a vehicle engine, the
@@ -1051,6 +1051,12 @@ It is 1903, eh? You got gas, a refinery, even gas pumps, but no vehicles?
 Well, you are in luck, now you will learn you all the inner workings
 of creating your very own motorcycle! Just set aside a bunch of steel and follow the steps below.
 
+|                                           |                                           |                                           |                                           |                                           |
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| <img src="assets/images/motorcycle1.png"> | <img src="assets/images/motorcycle2.png"> | <img src="assets/images/motorcycle3.png"> | <img src="assets/images/motorcycle4.png"> | <img src="assets/images/motorcycle5.png"> |
+| **1**                                     | **2**                                     | **3**                                     | **4**                                     | **5**                                     |
+
+
 1.  Build a **motorcycle frame** with 12 steel sheets ("vehicle parts" category). Choose name and colour for the bike (you may like #5C573D - "#" is
     not required).
 2.  Next, you need to build an **[engine](#engines "wikilink")**. Make an engine that is 125 cc **at most**. Only 125 cc or lower can be put into a bike, otherwise
@@ -1108,7 +1114,7 @@ While selecting a place for shipbuilding, keep in mind the following:
 
 **You can fix the walls and frames and the mast in place with the wrench to avoid pushing them on accident, but it is not necessary.**
 
-1.  Build a wood ship frame with wood logs. The frame on the picture is 5x3 tiles.
+1.  Build a **wood ship frame** with wood logs. The frame on the picture is 5x3 tiles.
 2.  Click ship frame tiles with wood logs to place walls and windows. Enter the desired thickness for every wall in millimeters.
 
       - **Wall (W)** - just a wooden impassable wall. Examples of walls
@@ -1122,7 +1128,7 @@ While selecting a place for shipbuilding, keep in mind the following:
       - **Window (Wi)** - just a cosmetic option. On the picture, there
         is a single window at the bow and three at the stern.
 
-3.  Build a ship rudder control and a mast (one is enough for now) with
+3.  Build a **ship rudder control** and a **ship mast** (one is enough for now) with
     wood logs. Their location is not important. **Make a small sail with 15 lengths of cloth and place it on the mast.**
       - The mast is actually larger than 1 tile, so its positioning is a
         bit quirky. See the picture below - this is how the mast is
