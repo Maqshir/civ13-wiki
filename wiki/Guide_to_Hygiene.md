@@ -23,7 +23,7 @@ and barrels work too). 2. is a shower.
 
 **Crafting a Shower:**
 
-<img src="/assets/images/shower.png"><br>
+<img src="assets/images/shower.png"><br>
 1.  With a stack of ten glass in hand, press Z.
 2.  Select the Shower option. Mind that the shower will be built BEHIND
     you, so if you want it on a wall, turn your back to it.
@@ -50,24 +50,28 @@ lid is open).
 
 **Digging a Latrine:**
 
-<img src="/assets/images/pit_latrine.png"><br>
+<img src="assets/images/pit_latrine.png"><br>
 1.  Have a Shovel and Press Z to open the menu and select "Pit Latrine"
     Out of the three options.
-2.  Stand over said Pit Latrine and use the Pee and Poop emotes.
-3.  Leave with your dignity having not shit yourself. (make sure its an
-    outhouse not just open space, privacy is needed)
+2.  Stand over said Pit Latrine and use the Pee and Poop emotes (Emote tab, or type *pee and *poop in chat).
+3.  Leave with your dignity having not shit yourself (make sure its an
+    outhouse not just open space, privacy is needed).
+    
+A pit latrine could be removed by filling it with 4 dirt piles.
 
 **Building an Outhouse:**
 
-<img src="/assets/images/outhouse.png"><br>
+<img src="assets/images/outhouse.png"><br>
 1.  With a stack of at least 35 Wood in hand, press Z.
 2.  Select the Hygiene category, then choose one of three types of
     outhouse (the only difference is appearance).
 3.  There, now you can do your business away from prying eyes.
 
+An outhouse could be deconstructed with the hammer.
+
 **Crafting a Toilet:**
 
-<img src="/assets/images/toilet.png"><br>
+<img src="assets/images/toilet.png"><br>
 1.  With a stack of Glass in hand, press Z.
 2.  Select the Toilet option.
 3.  Bam, you've now got a shitter.
