@@ -1,7 +1,6 @@
 # Guide to Character
 
-***"Know thyself."***
-
+***"Know thyself."***<br>
 *The Delphic maxim*
 
 ~~What is a 2D spessman civilizer, if not a bunch of pixels with loads of code behind it dictating the way it runs around, builds and crafts stuff, and whacks other civilizers?~~
@@ -58,8 +57,8 @@ The IC tab has the following commands regarding languages: **Check Default Langu
 
 ## Combat
 
-You can alter your combat behaviour with the following options:
-
+You can alter your combat behaviour with the following options:<br>
+<img src="assets/images/hud_combat.png"><br>
 from left to right, **tactics**, **mode** and **secondary attack**.
 
 **<u>Tactics</u>**
