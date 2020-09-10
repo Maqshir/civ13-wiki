@@ -16,7 +16,7 @@ and barrels work too). 2. is a shower.
 1.  Fill a bucket with at least 30 units of clean water, either from a
     well, or boiled in a pot from a puddle or river.
 2.  Strip like you're at the club and just had 40 beers and don't care
-    who sees your Johnson. In other words be naked.
+    who sees your Johnson. In other words, be naked.
 3.  Target the chest area while on harm intent, and click yourself.
 4.  This washes you, which should raise your hygiene enough so you're
     not stinky with a cloud of filth and smell around you. However it
@@ -25,6 +25,7 @@ and barrels work too). 2. is a shower.
 
 **Crafting a Shower:**
 
+![shower](/assets/shower.png)
 1.  With a stack of ten glass in hand, press Z.
 2.  Select the Shower option. Mind that the shower will be built BEHIND
     you, so if you want it on a wall, turn your back to it.
@@ -51,6 +52,7 @@ lid is open).
 
 **Digging a Latrine:**
 
+![pit latrine](/assets/pit_latrine.png)
 1.  Have a Shovel and Press Z to open the menu and select "Pit Latrine"
     Out of the three options.
 2.  Stand over said Pit Latrine and use the Pee and Poop emotes.
@@ -59,6 +61,7 @@ lid is open).
 
 **Building an Outhouse:**
 
+![outhouse](/assets/outhouse.png)
 1.  With a stack of at least 35 Wood in hand, press Z.
 2.  Select the Hygiene category, then choose one of three types of
     outhouse (the only difference is appearance).
@@ -66,6 +69,7 @@ lid is open).
 
 **Crafting a Toilet:**
 
+![toilet](/assets/toilet.png)
 1.  With a stack of Glass in hand, press Z.
 2.  Select the Toilet option.
 3.  Bam, you've now got a shitter.
@@ -95,32 +99,3 @@ water tile, a well or a puddle with it.
 Bear in mind, that having any kind of turd or turd-related constructions
 (outhouses etc.) within 4 tiles of a well will contaminate it, making
 its water unsafe to drink.
-
-## Guide to Mood
-
-Are you constantly feeling depressed? Getting weird audio randomly out
-of nowhere? Well, then you've got a shit mood! There's only 2 real ways
-to increase your mood.
-
-1.  Drugs, such as Cocaine and Opium.
-2.  Good complex foods like Boiled Rice, Roasted Meat Steak, Noodles,
-    Sandwiches, etc.
-3.  Alcohol, like vodka and sake.
-
-Things that can decrease mood:
-
-1.  Other people's Stench (when they have a cloud of filth around them
-    they decrease your mood and you get a message that they smell)
-2.  Your own Stench
-3.  Your own low Hygiene
-4.  Killing others (Drastically decreases mood, especially when cut
-    someone's head off)
-5.  Delimbed Body Parts and Gore
-
-Now you know how to manage your mood with these not so effective up
-keeps! But did you know mood effects more than you thought? Mood can
-effect your max skill stats. such as if you're feeling great you can
-have 2.875 as a stat cap. When your mood is shit, it can only be 2.0 (it
-will appear as 20x but it's actually 2.0x) So your mood can actually
-effect your ability to do things and speed of doing things greatly, and
-thus does matter, especially in combat situations.
