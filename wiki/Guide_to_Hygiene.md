@@ -1,13 +1,11 @@
-# Guide to Hygiene and Mood
+# Guide to Hygiene
 
-In this Guide you'll learn how not to be a filthy disgusting unga that
+In this guide you will learn how not to be a filthy disgusting unga that
 is so depressed he's considering drowning himself in his own urine as a
-way of suicide. In other words, someone who won't be hated by literally
+way of suicide. In other words, someone who will not be hated by literally
 everyone around them. Wow! Rare indeed.
 
-## Guide to Hygiene
-
-So, you're a bit stinky and need a good wash. There are currently two
+So, you are a bit stinky and need a good wash. There are currently two
 ways you are able to wash yourself. 1. is a bucket of clean water (pots
 and barrels work too). 2. is a shower.
 
