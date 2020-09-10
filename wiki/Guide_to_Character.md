@@ -22,7 +22,7 @@ The "standard" maximum level of a skill is 2.5, but it may be higher with the ex
 
 Skills are trained by various activities and by reading **scientific literature** on respective subjects (skill books - slates, scrolls and books, depending on the epoch). The literature written by a character with a higher skill level grants a larger skill boost to the reader.
 
-P.S. 20 is a lie, it is 2<u>**.**</u>0
+P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 | <u>Skill</u> | <u>Affects</u>                                               | <u>Trained by</u>                                            |
 | :----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
