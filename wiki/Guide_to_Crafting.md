@@ -1043,6 +1043,41 @@ electrical cables.
 
 ## Vehicles
 
+### Motorcycles
+
+<hr>
+
+It is 1903, eh? You got gas, a refinery, even gas pumps, but no vehicles?
+Well, you are in luck, now you will learn you all the inner workings
+of creating your very own motorcycle! Just set aside a bunch of steel and follow the steps below.
+
+1.  Build a **motorcycle frame** with 12 steel sheets ("vehicle parts" category). Choose name and colour for the bike (you may like #5C573D - "#" is
+    not required).
+2.  Next, you need to build an **[engine](#engines "wikilink")**. Make an engine that is 125 cc **at most**. Only 125 cc or lower can be put into a bike, otherwise
+    it will not fit. Choose from 2- and 4-stroke engines, all others are too large.
+3.  Now you need to slap whatever engine you made into that sweet sweet
+    frame of the bike. Simply click the engine icon and drag it onto the bike.
+4.  All that is left then to add is a **fuel tank**. You can build one with
+    steel sheets ("fuel tanks" category). You have 3 choices. 75 u bike
+    tank is the biggest. Build bike tanks, fuel tanks will not fit.
+    Then take the bike tank and click on the bike to install that
+    baby.
+5.  Now you have successfully made a motorcycle. What you named it? No one
+    cares. Who you made it for? No one cares, they will likely steal it
+    anyway. However, you are the man with the fuel (hopefully)! Hop on and ride!
+
+#### Motorcycle operation
+
+Bikes have 4 speeds. Stopped (neutral), 1st
+gear (moving slowly), 2nd gear (moving faster than the 1st), and 3rd
+gear (fastest - you crash on this speed, you are sure to break something). 
+
+Mount your bike by click-dragging your icon onto the bike. You can get off by clicking on the bike with the
+handle bars in hand (this also shuts off the bike. Two clicks - shut off
+the bike, then another on to get off).You **turn on/increase speed of the
+bike by pressing Z**. You can **stop/decrease speed by pressing C**.
+Drive safe out there!
+
 ### Modular ships
 
 <hr>
@@ -1051,7 +1086,7 @@ Rafts and outriggers do not befit a true naval power, so when your
 nation has its eye on distant shores, it may be just the time to open
 shipyards and commission a man-of-war or two.
 
-<b>Shipyard considerations</b>
+<b>Shipyard considerations</b><br>
 While selecting a place for shipbuilding, keep in mind the following:
 
   - The maximum size of a ship is 5x5 tiles. Larger ones will not
@@ -1116,6 +1151,8 @@ While selecting a place for shipbuilding, keep in mind the following:
 </table>
 
 ### Modular tanks
+
+<hr>
 
 Indispensable political instruments in later ages, perfectly suited for
 settling disputes and establishing accord on all fronts.
