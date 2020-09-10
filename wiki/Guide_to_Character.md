@@ -45,7 +45,7 @@ You can select traits on the character setup screen before spawning. Positive (a
 
 ## Languages
 
-There may be more than one ethnicity on a given map, and each ethnicity speaks its own language. On some maps you can choose who you spawn as, which, basically, equals to choosing a starting language.  On others spawning is random. Furthermore, on some maps you can choose two languages at the start, a "primary" (also determines the ethnicity) and a "secondary" one.
+There may be more than one ethnicity on a given map, and each ethnicity speaks its own language. On some maps you can choose who you spawn as, which, basically, equals to choosing a starting language.  On others spawning is random. Furthermore, on some maps you can choose two languages at the start, a "primary" (also determines ethnicity) and a "secondary" one.
 
 **You can learn a new language by listening to it being spoken by others** (first option, takes about 20-30 minutes of continuous listening in total; learning progress is saved). Some languages, for example, German and Dutch, have a degree of mutual similarity, so that a speaker of one language have some initial grasp of the other and can learn it faster. 
 
