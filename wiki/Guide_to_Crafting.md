@@ -74,7 +74,17 @@ them. For example, building a well or a wall requires the skill at the
 </tr>
 <tr>
 <td><b>1</b></td>
-<td><b>Crafting:</b><br>locked doors</td>
+<td>
+<table class="sortable">
+<tbody>
+<tr>
+<td>
+<b>Crafting:</b><br>locked doors
+</td>
+</tr>
+</tbody>
+</table>
+</td>
 </tr>
 <tr>
 <td><b>1.1</b></td>
