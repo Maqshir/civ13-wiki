@@ -70,7 +70,7 @@ them. For example, building a well or a wall requires the skill at the
 <tbody>
 <tr>
 <td width="5%"><b>Skill level</b></td>
-<td width="10%"<b>Unlocks</b></td>
+<td width="10%"><b>Unlocks</b></td>
 </tr>
 <tr>
 <td><b>1</b></td>
