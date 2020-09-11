@@ -64,8 +64,36 @@ Crafting anything increases your crafting skill which is displayed on
 the Character tab. Some recipes and workbenches require a certain level
 of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
-1.1 mark, while using an anvil requires 1.7. See the **[Full Crafting List](Full_Crafting_List "wikilink")** for the skill requirements for a
-given recipe.
+1.1 mark, while using an anvil requires 1.7. See the table below for more info on skill requirements.
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><b>Skill level</b></td>
+<td width="10%"<b>Unlocks</b></td>
+</tr>
+<tr>
+<td><b>1</b></td>
+<td><b>Crafting:</b><br>locked doors
+</tr>
+<tr>
+<td><b>1.1</b></td>
+<td><b>Crafting:</b><br>walls<br>well
+</tr>
+<tr>
+<td><b>1.35</b></td>
+<td><b>Crafting:</b><br>motorcycle frame<br>fuel pump
+</tr>
+<tr>
+<td><b>1.55</b></td>
+<td><b>Crafting:</b><br>arquebus<br>matchlock musket<br>monumental stone pillar<br>monumental ominous statue of the deep-one<br>monumental ominous statue of the evil-one<br>monumental ominous statue of the outsider<br>monumental stone buddha<br>monumental saint statue
+</tr>
+<tr>
+<td><b>1.9</b></td>
+<td><b>Crafting:</b><br>locomotive
+</tr>
+</tbody>
+</table>
 
 ### Crafting differences between gamemodes
 
