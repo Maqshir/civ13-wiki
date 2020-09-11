@@ -79,7 +79,12 @@ them. For example, building a well or a wall requires the skill at the
 <tbody>
 <tr>
 <td>
-<b>Crafting:</b><br>locked doors
+<b>Crafting:</b>
+</td>
+</tr>
+<tr>
+<td>
+locked doors
 </td>
 </tr>
 </tbody>
