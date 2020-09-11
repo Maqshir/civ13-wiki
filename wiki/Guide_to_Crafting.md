@@ -74,23 +74,23 @@ them. For example, building a well or a wall requires the skill at the
 </tr>
 <tr>
 <td><b>1</b></td>
-<td><b>Crafting:</b><br>locked doors
+<td><b>Crafting:</b><br>locked doors</td>
 </tr>
 <tr>
 <td><b>1.1</b></td>
-<td><b>Crafting:</b><br>walls<br>well
+<td><b>Crafting:</b><br>walls<br>well</td>
 </tr>
 <tr>
 <td><b>1.35</b></td>
-<td><b>Crafting:</b><br>motorcycle frame<br>fuel pump
+<td><b>Crafting:</b><br>motorcycle frame<br>fuel pump</td>
 </tr>
 <tr>
 <td><b>1.55</b></td>
-<td><b>Crafting:</b><br>arquebus<br>matchlock musket<br>monumental stone pillar<br>monumental ominous statue of the deep-one<br>monumental ominous statue of the evil-one<br>monumental ominous statue of the outsider<br>monumental stone buddha<br>monumental saint statue
+<td><b>Crafting:</b><br>arquebus<br>matchlock musket<br>monumental stone pillar<br>monumental ominous statue of the deep-one<br>monumental ominous statue of the evil-one<br>monumental ominous statue of the outsider<br>monumental stone buddha<br>monumental saint statue</td>
 </tr>
 <tr>
 <td><b>1.9</b></td>
-<td><b>Crafting:</b><br>locomotive
+<td><b>Crafting:</b><br>locomotive</td>
 </tr>
 </tbody>
 </table>
