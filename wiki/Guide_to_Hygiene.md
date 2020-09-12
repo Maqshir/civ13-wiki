@@ -39,6 +39,7 @@ and barrels work too); 2. is a shower; 3. is a bath.
 Congrats! You're no longer stinky.
 
 **Crafting a bath:**
+
 Baths are made with different materials in different epochs (check **[Full Crafting List](Full_Crafting_List "wikilink")**, look for "bath"). Public baths are just larger versions of regular ones.
 
 **Washing yourself in a bath:**
