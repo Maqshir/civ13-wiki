@@ -256,6 +256,16 @@ For a more **permanent** light source, you can build **braziers** from
 **stone**. You can fuel it with any organic matter like wood or
 clothing, simply use items on the brazier on **help intent**.
 
+## Saving your character
+If you simply log off, your character will be left unconscious and helpless, lying face-down on the floor, liable to get killed or robbed, or just starve to death.
+
+To avoid that, go to sleep properly:
+- Stand over a bed or buckle yourself to a leather bedroll (no need to buckle to beds). **Do not have anything in your hands - you will lose it permanently!**
+- Type "sleep" in the chat (without "say") or click "Sleep" on the IC tab.
+- Wait 2 minutes to be teleported to a safe zone.
+- Sleep tight. If you go to sleep with full stomach (100% of food and water), your character will last about 3 RL days. All things you have on yourself will be safe, **except that you drop whatever you have in your hands, leaving it in the sleep zone!**
+- To wake up, type "wake-up" (again, without "say") or click "Wake Up" on the IC tab. You will be teleported to the spot where you went to sleep.
+
 ## Additional info
 ### Status tab
 The Status tab has some general info about the ongoing round, both OOC and IC, namely:
