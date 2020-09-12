@@ -23,7 +23,7 @@ and barrels work too); 2. is a shower; 3. is a bath.
 **Crafting a shower:**
 
 <img src="assets/images/shower.png"><br>
-1.  With a stack of 10 **[Glass](Full_Crafting_List#glass "wikilink")** in hand, press Z.
+1.  With a stack of 10 Glass in hand, press Z.
 2.  Select the shower option. **Mind that the shower will be built BEHIND you, so if you want it on a wall, turn your back to it.**
 3.  An advanced washing apparatus is ready for your use.
 
@@ -71,7 +71,7 @@ A pit latrine could be removed by filling it with 4 dirt piles.
 **Building an outhouse:**
 
 <img src="assets/images/outhouse.png"><br>
-1.  With a stack of at least 35 wood in hand, press Z.
+1.  With a stack of at least 35 Wood in hand, press Z.
 2.  Select the Hygiene category, then choose one of three types of
     outhouse (the only difference is appearance).
 3.  There, now you can do your business away from prying eyes.
