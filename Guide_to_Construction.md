@@ -1114,9 +1114,8 @@ finish it.
 
 **Rock** - crafted with 3 stone.
 
-**Sandbag** - make empty sandbags with
-**[Cloth](Full_Crafting_List#cloth "wikilink")** and fill them with sand
-piles, then build the barricade like a dirt/snow one.
+**Sandbag** - make sandbags with
+**[Cloth](Full_Crafting_List#cloth "wikilink")**, then build the barricade like a dirt/snow one.
 
 **All barricades could be dismantled by clicking them with an empty
 hand.**
