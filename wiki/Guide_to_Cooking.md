@@ -6,34 +6,81 @@ Cooking is useful for making meat and water safe to consume, as well as
 increasing the nutrition value of every other non-meat food, like
 vegetables and wheat-derived products.
 
-Furthermore, more complex recipes are also even more nutritious, and
-also present interesting RP options, such as being vegetarian, perhaps
-pork-free, etcetera.
+Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood "wikilink")**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
 
-## Campfire/Oven/Wood Stove
+## Kitchen implements
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
+<td><b>Knife</b></td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. A versatile tool that is used to cut various foods. Also has other, non-culinary uses described in the <b><a href="Guide to Crafting#tools>Guide to Crafting</a></b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png"></td>
+<td><b>Hammer</b></td>
+<td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide to Crafting#tools>Guide to Crafting</a></b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/rolling_pin.png"></td>
+<td><b>Rolling pin</b></td>
+<td>Made with 1 wood log (!). An essential element of decent marriage RP.</td>
+</tr>
+<tr>
+<td><img src="assets/images/cutting_board.png"></td>
+<td><b>Cutting board</b></td>
+<td>Made with 5 wood. Used to mince and form meat before the invention of the meat grinder. Place <b>meat steaks</b> and <b>fish</b>, then mince them with a knife. Place <b>mince</b> on the board and use knife again to make <b>meatballs</b>, which you can then press into <b>patties</b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/meat_grinder.png"></td>
+<td><b>Meat grinder</b></td>
+<td>Made with 8 iron. Used to mince fish and various meats. More efficient than the cutting board. The minceable items: <b>steaks</b>, <b>cutlets</b>, <b>fish</b>, <b>ham leg</b>, <b>chicken (carcass, thigh, wing, breast)</b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/dehydrator.png"></td>
+<td><b>Dehydrator</b></td>
+<td>Made with 5 wood. Used to hang meat and fish cutlets (slice meat and fish with the knife) to dry.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salting_container.png"></td>
+<td><b>Salting container</b></td>
+<td>Made with 6 wood. Used to cure meat and fish with salt.</td>
+</tr>
+<tr>
+<td><img src="assets/images/food_drying_rack.png"></td>
+<td><b>Drying rack</b></td>
+<td>Made with 8 iron. Used to hang certain <b>salted</b> foods to dry (ham, cod, salami etc.)</td>
+</tr>
+</tbody>
+</table>
+
+## Food storage
+
+## Campfire, Oven and Wood Stove
 
 Campfires and ovens can be used to roast food and prepare advanced
-recipes, as well as boiling water for safe consumption, and burning down
-any item into a Burned Mess.
+recipes, as well as to boil water for safe consumption and burn down
+any uncookable item into a burned mess.
+
+You can roast almost anything remotely edible and it will feed a hungry mouth, but this is hardly fine cuisine.
 
   - Make a campfire with wood, an oven with iron, or a wood stove with
     steel. A campfire can cook two items at a time, whereas an oven can
     cook three at a time, and the best being the wood stove which can
-    cook five items at a time which is the best way to save fuel.
-  - Put some fuel inside, if needed (wood or coal).
-  - Place food (or container filled with water to boil).
+    cook four items at a time which is the best way to save fuel. Oven and stove also cook much faster.
+  - Put some fuel inside (wood or coal, for instance).
+  - Place food or container filled with water to boil.
   - Wait for it to finish cooking/boiling.
   - Eat!
 
+A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
+
 ## Cooking Pot
 
-You can make a cooking pot to make a stew. The advantage of this method
-is that you can get rid of thirstiness and hunger at the same time, so
-long as you don't cook with salty water or dried meat, as those will
-contain salt, and dehydrate you. Another benefit is the fact that
-cooking pot will never go stale or decompose, allowing you to store food
-indefinitely! NOTE: Filled wooden bowls will become stale and
-decomposed if not eaten.
+You can make a cooking pot to make **stew**. The advantage of stew
+is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food
+indefinitely! NOTE: Filled wooden bowls will go bad (disappear) if not eaten.
 
 ## Fridge
 
