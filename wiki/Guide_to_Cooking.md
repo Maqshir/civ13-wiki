@@ -15,12 +15,12 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td width="5%"><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. A versatile tool that is used to cut various foods. Also has other, non-culinary uses described in the <b><a href="Guide to Crafting#tools>Guide to Crafting</a></b>.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. A versatile tool that is used to cut various foods. Also has other, non-culinary uses described in the <b><a href="Guide to Crafting#tools">Guide to Crafting</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide to Crafting#tools>Guide to Crafting</a></b>.</td>
+<td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide to Crafting#tools">Guide to Crafting</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/rolling_pin.png"></td>
