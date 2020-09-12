@@ -49,7 +49,7 @@ cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Me
 ### Hunger
 
 The easiest way to get food early on is by killing animals and eating
-the meat after cooking it.
+the meat after cooking it. Also, you can eat bird eggs, even uncooked!
 
   - Find an animal, preferably one that
     doesn't have fangs, claws, tusks, or poison. and kill it with any means (even bare fists work). **Stay away from bears,
@@ -257,7 +257,7 @@ For a more **permanent** light source, you can build **braziers** from
 clothing, simply use items on the brazier on **help intent**.
 
 ## Saving your character
-If you simply log off, your character will be left unconscious and helpless, lying face-down on the floor, liable to get killed or robbed, or just starve to death.
+If you simply log off, your character will be left unconscious and helpless, lying face-down on the floor, liable to get killed or robbed or just starve to death.
 
 To avoid that, go to sleep properly:
 - Stand over a bed or buckle yourself to a leather bedroll (no need to buckle to beds). **Do not have anything in your hands - you will lose it permanently!**
