@@ -35,7 +35,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/fermentation_jar.png"></td>
 <td><b>Fermentation jar</b></td>
-<td>Made with 3 glass. Used to obtain <b>yeast</b>, which is ssential to the alcoholic drinks production.</td>
+<td>Made with 3 glass. Used to obtain <b>yeast</b>, which is essential to the alcoholic drinks production.</td>
 </tr>
 <tr>
 <td><img src="assets/images/cutting_board.png"></td>
@@ -131,7 +131,12 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/salt.png"></td>
+<td width="5%"><img src="assets/images/yeast.png"></td>
+<td>Yeast</td>
+<td>Put either wheat or flour in a fermentation far and wait for the message.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salt.png"></td>
 <td>Salt</td>
 <td>Boil saltwater.</td>
 </tr>
@@ -298,7 +303,7 @@ culinary art!
 </tr>
 <tr>
 <td><img src="assets/images/spaghetti_and_meatballs.png"></td>
-<td>Spaghettit and meatballs</td>
+<td>Spaghetti and meatballs</td>
 <td>Boil spaghetti in a cooking pot and add a meatball.</td>
 </tr>
 <tr>
