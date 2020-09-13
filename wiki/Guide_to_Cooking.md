@@ -133,7 +133,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td width="5%"><img src="assets/images/yeast.png"></td>
 <td>Yeast</td>
-<td>Put either wheat or flour in a fermentation far and wait for the message.</td>
+<td>Put either wheat or flour in a fermentation far and wait for the message about fermentation.</td>
 </tr>
 <tr>
 <td><img src="assets/images/salt.png"></td>
