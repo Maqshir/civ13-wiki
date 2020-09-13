@@ -80,8 +80,12 @@ Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents
 
 Here is the rundown of decay timers for different **unstored** foods (minutes):
 
-<table width="25%">
+<table width="25%" class="sortable">
 <tbody>
+<tr>
+<th style="background-color=#cc7000;">Item</th>
+<th style="background-color=#cc7000;">Time (minutes)</th>
+</tr>
 <tr>
 <td width="10%"><b>Flour</b></td>
 <td>100</td>
