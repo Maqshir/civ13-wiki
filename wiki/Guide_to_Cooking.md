@@ -208,17 +208,17 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/chicken_breast.png"></td>
 <td>Chicken breast</td>
-<td rowspan="3">Cut a chicken carcass with a knife.</td>
+<td>Cut a chicken carcass with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_wing.png"></td>
 <td>Chicken wing</td>
-<td></td>
+<td>Cut a chicken carcass with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_drumstick.png"></td>
 <td>Chicken drumstick</td>
-<td></td>
+<td>Cut a chicken carcass with a knife.</td>
 </tr>
 </tbody>
 </table>
@@ -232,55 +232,43 @@ culinary art!
 
 #### Basic
 
-<table class="sortable">
+<table>
 <thead>
 <tr class="header">
-<th scope = "col" style="width: 10%">Dish</th>
-<th scope = "col" style="width: 10%">Recipe</th>
-<th scope = "col" style="width: 10%">Steps</th>
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Dish</th>
+<th style="background-color=#cc7000;">Recipe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><p>Flatbread</p></td>
-<td>
-<img src="assets/images/Flatbread.png">
-</td>
-<td><p>Use a rolling pin on dough and roast the flat dough</p></td>
+<td width="5%"><img src="assets/images/Flatbread.png"></td>
+<td>Flatbread</td>
+<td>Use a rolling pin on dough and roast the flat dough</td>
 </tr>
 <tr>
-<td><p>Bread</p></td>
-<td>
-<img src="assets/images/Bread.png">
-</td>
-<td><p>Roast a ball of dough in a campfire or oven.</p></td>
+<td><img src="assets/images/Bread.png"></td>
+<td>Bread/td>
+<td>Roast a ball of dough in a campfire or oven.</td>
 </tr>
 <tr>
-<td><p>Bread slice</p></td>
-<td>
-<img src="assets/images/Bread_slice.png">
-</td>
-<td><p>Slice flat dough with a knife and roast it.</p></td>
+<td><img src="assets/images/Bread_slice.png"></td>
+<td>Bread slice</td>
+<td>Slice flat dough with a knife and roast it.</td>
 </tr>
 <tr>
-<td><p>Fries</p></td>
-<td>
-<img src="assets/images/Fries.png">
-</td>
-<td><p>Cut potatoes with a knife to get raw potatoes and roast the raw potatoes to get fries.</p></td>
+<td><img src="assets/images/Fries.png"></td>
+<td>Fries</td>
+<td>Cut potatoes with a knife to get raw potatoes and roast the raw potatoes to get fries.</td>
 </tr>
 <tr>
-<td><p>Dried cutlets</p></td>
-<td>
-<img src="assets/images/Dried_cutlet.png">
-</td>
-<td><p>Simply take your raw meat cutlets and click on a dehydrator to dry them. In time they'll come off as dry cutlets. (NOTE: Dried cutlets cannot spoil, but will attract pests if left in the open.)</p></td>
+<td><img src="assets/images/Dried_cutlet.png"></td>
+<td>Dried cutlets</td>
+<td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets.</td>
 </tr>
 <tr>
-<td><p>Stew</p></td>
-<td>
-<img src="assets/images/Stew.png">
-</td>
+<td><img src="assets/images/Stew.png"></td>
+<td>Stew</td>
 <td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - **except salty ingredients**) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
 </tr>
 </tbody>
