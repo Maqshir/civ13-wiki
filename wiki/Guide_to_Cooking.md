@@ -207,15 +207,17 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/chicken_breast.png"></td>
 <td>Chicken breast</td>
-<td rowspan="3">Cut a chicken carcass with a knife.</td>
+<td>Cut a chicken carcass with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_wing.png"></td>
 <td>Chicken wing</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_drumstick.png"></td>
 <td>Chicken drumstick</td>
+<td></td>
 </tr>
 </tbody>
 </table>
