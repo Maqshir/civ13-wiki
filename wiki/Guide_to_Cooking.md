@@ -244,11 +244,11 @@ culinary art!
 <tr>
 <td width="5%"><img src="assets/images/Flatbread.png"></td>
 <td>Flatbread</td>
-<td>Use a rolling pin on dough and roast the flat dough</td>
+<td>Roast flat dough.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Bread.png"></td>
-<td>Bread/td>
+<td>Bread</td>
 <td>Roast a ball of dough in a campfire or oven.</td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ culinary art!
 <tr>
 <td><img src="assets/images/Stew.png"></td>
 <td>Stew</td>
-<td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - **except salty ingredients**) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
+<td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - <b>except salty ingredients</b>) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
 </tr>
 </tbody>
 </table>
