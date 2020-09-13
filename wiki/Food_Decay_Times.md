@@ -1,4 +1,4 @@
-# Food Decay Timers
+# Food Decay Times
 
 **All tables are sortable - click the headers.**
 
@@ -138,7 +138,6 @@
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th style="background-color=#cc7000;">Time (minutes)</th>
-</tr>
 </tr>
 <tr>
 <td width="10%"><b>Raw fish</b></td>
