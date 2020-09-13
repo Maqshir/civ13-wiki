@@ -40,7 +40,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/cutting_board.png"></td>
 <td><b>Cutting board</b></td>
-<td>Made with 5 wood. Used to mince and form meat before the invention of the meat grinder. Place <b>meat steaks</b> and <b>fish</b>, then mince them with a knife. Place <b>mince</b> on the board and use knife again to make <b>meatballs</b>, which you can then press into <b>patties</b>.</td>
+<td>Made with 5 wood. Used to form meat and mince it before the invention of the meat grinder. Place <b>meat steaks</b> and <b>fish</b>, then mince them with a knife. Place <b>mince</b> on the board and use knife again to make <b>meatballs</b>, which you can then press into <b>patties</b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/meat_grinder.png"></td>
@@ -130,18 +130,14 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </thead>
 <tbody>
 <tr>
-<td><p>Dough</p></td>
-<td>
-<img src="assets/images/Dough.png">
-</td>
-<td><p>Make flour by grinding wheat with the small mill, them, activate a bag of flour with it in the active hand, and with a container with water in the off hand</p></td>
+<td><p>Flour</p></td>
+<td><img src="assets/images/flour.png"></td>
+<td>Grind <b>wheat</b>, <b>oat</b> or <b>barley</b> with the mill to get respective kind of flour. Each sack contains 10 units of flour.</td>
 </tr>
 <tr>
-<td><p>Flatbread</p></td>
-<td>
-<img src="assets/images/Flatbread.png">
-</td>
-<td><p>Use a rolling pin on dough and roast the flat dough</p></td>
+<td><p>Dough</p></td>
+<td><img src="assets/images/Dough.png"></td>
+<td><li>Hold a flour sack in the active hand and a container with water in the off-hand.</li><br><li>Click the flour sack. A piece of dough takes 5 u of water and 5 u of flour.</li></td>
 </tr>
 <tr>
 <td><p>Egg</p></td>
@@ -165,9 +161,9 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td><p>Add some flour to the slab of meat.</p></td>
 </tr>
 <tr>
-<td><p>Meat Cutlets</p></td>
+<td><p>Cutlets</p></td>
 <td><img src="assets/images/Cutlet.png"></td>
-<td><p>Cut a meat slab (or fish meat) with a knife.</p></td>
+<td><p>Cut a meat slab or fish meat with a knife.</p></td>
 </tr>
 </tbody>
 </table>
@@ -190,6 +186,13 @@ culinary art!
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><p>Flatbread</p></td>
+<td>
+<img src="assets/images/Flatbread.png">
+</td>
+<td><p>Use a rolling pin on dough and roast the flat dough</p></td>
+</tr>
 <tr>
 <td><p>Bread</p></td>
 <td>
