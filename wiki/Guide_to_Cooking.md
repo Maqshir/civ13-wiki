@@ -147,7 +147,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </tr>
 <tr>
 <td><img src="assets/images/egg.png"></td>
-<td><p>Egg</p></td>
+<td>Egg</td>
 <td>Get a chicken or a turkey to lay an egg.</td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/sausage_casing.png"></td>
 <td>Sausage casing</td>
-<td>Cut a stomach with a knife.</td>
+<td>Cut a stomach with a knife. Filled with minced meat to make sausages.</td>
 </tr>
 <tr>
 <td><img src="assets/images/tripe.png"></td>
