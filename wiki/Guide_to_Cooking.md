@@ -23,9 +23,19 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide_to_Crafting#tools">Guide to Crafting</a></b>.</td>
 </tr>
 <tr>
+<td><img src="assets/images/mill.png"></td>
+<td><b>Mill</b></td>
+<td>Made with 4 wood. Used to produce flour and cereals.</td>
+</tr>
+<tr>
 <td><img src="assets/images/rolling_pin.png"></td>
 <td><b>Rolling pin</b></td>
 <td>Made with 1 wood log (!). An essential element of marriage RP.</td>
+</tr>
+<tr>
+<td><img src="assets/images/fermentation_jar.png"></td>
+<td><b>Fermentation jar</b></td>
+<td>Made with 3 glass. Used to obtain <b>yeast</b>, which is ssential to the alcoholic drinks production.</td>
 </tr>
 <tr>
 <td><img src="assets/images/cutting_board.png"></td>
@@ -74,13 +84,13 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 
 ~~Store in a cool, dry place, away from direct sunlight.~~
 
-Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round).
+Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round). Scattered food may also attract pests, such as mice.
+
+Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
 Check **[here](Food_Decay_Times "wikilink")** for the decay times for different **unstored** foods.
 
 **Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
-
-Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
 Decay time for the food stored in a **crate** is **doubled**.
 
@@ -92,7 +102,7 @@ Campfires and ovens can be used to roast food and prepare advanced
 recipes, as well as to boil water for safe consumption and burn down
 any uncookable item into a burned mess (disappears after a while).
 
-You can roast almost anything remotely edible and it will feed a hungry mouth, but this is hardly fine cuisine.
+You can roast plenty of things: vegetables, meat, fish etc.
 
   - Make a campfire with wood, an oven with iron, or a wood stove with
     steel. A campfire can cook two items at a time, whereas an oven can
@@ -156,23 +166,20 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </tr>
 <tr>
 <td><p>Meat Cutlets</p></td>
+<td><img src="assets/images/Cutlet.png"></td>
 <td><p>Cut a meat slab (or fish meat) with a knife.</p></td>
-<td></td>
-</tr>
-<tr>
-<td><p>Grown Foods</p></td>
-<td>
-<img src="assets/images/Cutlet.png">
-</td>
-<td><p>Corn,Cabbages,tomatoes, potatoes can all be roasted on a campfire or stove to be more filling.</p></td>
 </tr>
 </tbody>
 </table>
 
-## Food recipes
+## Recipes
 
 There are many different recipes to be made that can perfect your
 culinary art!
+
+### Food
+
+#### Basic
 
 <table class="sortable">
 <thead>
@@ -221,38 +228,40 @@ culinary art!
 </tbody>
 </table>
 
-## Drink recipes
+#### Complex
 
-### Tea
+### Beverages
+
+#### Tea
 
   - Can be drunk directly from the leaves, placed in a container, or
     dissolved into water.
 
-### Milk
+#### Milk
 
   - Use a bucket or pot on a cow, goat, or sheep.
 
-### Olive Oil
+#### Olive Oil
 
   - Add olives to a container.
   - Can also be used as lamp or engine fuel.
 
-### Grape Juice
+#### Grape Juice
 
   - Add grapes to a container.
 
-### Wine
+#### Wine
 
   - Add one piece of yeast to a container with grape juice.
 
-### Palm wine
+#### Palm wine
 
   - Make a tribal pot out of glass
   - Take a knife and a tribal pot in your hands
   - Cut a palm tree with a knife
   - Wait for the palm sap to ferment
 
-### Beer
+#### Beer
 
   - Get a barrel and fill it with 100u of water 1u of yeast and 100 of
     flour.
