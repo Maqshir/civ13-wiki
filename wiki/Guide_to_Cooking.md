@@ -146,6 +146,26 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>- Hold a flour sack in the active hand and a container with water in the off-hand.<br>- Click the flour sack. A piece of dough takes 5 u of water and 5 u of flour.</td>
 </tr>
 <tr>
+<td><img src="assets/images/dough_flat.png"></td>
+<td>Flat dough</td>
+<td>Flatten dough with the rolling pin.</td>
+</tr>
+<tr>
+<td><img src="assets/images/dough_slice.png"></td>
+<td>Dough slice</td>
+<td>Slice flat dough with a knife.</td>
+</tr>
+<tr>
+<td><img src="assets/images/spaghetti.png"></td>
+<td>Spaghetti</td>
+<td>Cut dough with a knife.</td>
+</tr>
+<tr>
+<td><img src="assets/images/noodles.png"></td>
+<td>Noodles</td>
+<td>Cut spaghetti with a knife.</td>
+</tr>
+<tr>
 <td><img src="assets/images/egg.png"></td>
 <td>Egg</td>
 <td>Get a chicken or a turkey to lay an egg.</td>
@@ -154,6 +174,11 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td><img src="assets/images/Cheese.png"></td>
 <td>Cheese</td>
 <td>Collect milk in a container and add one piece of yeast.</td>
+</tr>
+<tr>
+<td><img src="assets/images/potato_raw_sticks.png"></td>
+<td>Raw potato sticks</td>
+<td>Cut a potato with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Cutlet.png"></td>
@@ -249,22 +274,32 @@ culinary art!
 <tr>
 <td><img src="assets/images/Bread.png"></td>
 <td>Bread</td>
-<td>Roast a ball of dough in a campfire or oven.</td>
+<td>Roast a ball of dough.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Bread_slice.png"></td>
 <td>Bread slice</td>
-<td>Slice flat dough with a knife and roast it.</td>
+<td>Cut bread with a knife (who would have thought?)</td>
 </tr>
 <tr>
 <td><img src="assets/images/Fries.png"></td>
 <td>Fries</td>
-<td>Cut potatoes with a knife to get raw potatoes and roast the raw potatoes to get fries.</td>
+<td>Roast raw potato sticks.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Dried_cutlet.png"></td>
-<td>Dried cutlets</td>
+<td>Dried meat cutlets</td>
 <td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets.</td>
+</tr>
+<tr>
+<td><img src="assets/images/dried_fish.png"></td>
+<td>Dried fish</td>
+<td>Same as above, only hanging fish fillets.</td>
+</tr>
+<tr>
+<td><img src="assets/images/spaghetti_and_meatballs.png"></td>
+<td>Spaghettit and meatballs</td>
+<td>Boil spaghetti in a cooking pot and add a meatball.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Stew.png"></td>
