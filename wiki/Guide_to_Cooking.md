@@ -212,12 +212,10 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/chicken_wing.png"></td>
 <td>Chicken wing</td>
-<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_drumstick.png"></td>
 <td>Chicken drumstick</td>
-<td></td>
 </tr>
 </tbody>
 </table>
