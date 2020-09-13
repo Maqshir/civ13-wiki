@@ -124,9 +124,9 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <table>
 <thead>
 <tr class="header">
-<th scope = "col" style="width: 10%">Image</th>
-<th scope = "col" style="width: 10%">Ingredient</th>
-<th scope = "col" style="width: 10%">Steps</th>
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Ingredient</th>
+<th style="background-color=#cc7000;">Steps</th>
 </tr>
 </thead>
 <tbody>
