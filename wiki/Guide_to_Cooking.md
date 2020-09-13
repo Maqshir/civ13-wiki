@@ -25,7 +25,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/rolling_pin.png"></td>
 <td><b>Rolling pin</b></td>
-<td>Made with 1 wood log (!). An essential element of decent marriage RP.</td>
+<td>Made with 1 wood log (!). An essential element of marriage RP.</td>
 </tr>
 <tr>
 <td><img src="assets/images/cutting_board.png"></td>
@@ -36,6 +36,16 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <td><img src="assets/images/meat_grinder.png"></td>
 <td><b>Meat grinder</b></td>
 <td>Made with 8 iron. Used to mince fish and various meats. More efficient than the cutting board. The minceable items: <b>steaks</b>, <b>cutlets</b>, <b>fish</b>, <b>ham leg</b>, <b>chicken (carcass, thigh, wing, breast)</b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/pot_tin.png"><img src="assets/images/pot_copper.png"><img src="assets/images/pot_copper_large.png"></td>
+<td><b>Pot</b></td>
+<td>Tin pot is made with 3 tin, small copper pot - 3 copper, large - 5. Used to boil water to make it safe to drink (water from <b>wells</b> does not require boiling, unless the surrounding area is <b><a href="Guide_to_Hygiene#keeping-the-place-clean">unclean</a></b>.</td>
+</tr>
+<tr>
+<td><img src="assets/images/cooking_pot.png"></td>
+<td><b>Cooking pot</b></td>
+<td>Made with 8 iron. Used to make **stew**. The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food indefinitely! <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dehydrator.png"></td>
@@ -52,16 +62,50 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <td><b>Drying rack</b></td>
 <td>Made with 8 iron. Used to hang certain <b>salted</b> foods to dry (ham, cod, salami etc.)</td>
 </tr>
+<tr>
+<td><img src="assets/images/canner.png"></td>
+<td><b>Canner</b></td>
+<td>Made with 7 iron. Used to can food.</td>
+</tr>
 </tbody>
 </table>
 
 ## Food storage
 
+~~Store in a cool, dry place, away from direct sunlight.~~
+
+Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round).
+
+Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any **crate** or a **fridge**.
+
+Here is the rundown of decay timers for different **unstored** foods (minutes):
+
+<table width="25%">
+<tbody>
+<tr>
+<td width="10%"><b>Flour</b></td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+
+- **yeast** - 30; **sugar** - 45; **flour** - 100
+- **tea** - 80; **coffee** - 90
+- **peyote** - 60; 
+- **grapes** - 12; **olives** - 
+
+### Wooden crates
+
+### Fridge
+
+You can keep food fresh and safe to eat by putting them in a fridge. The
+fridge needs to be powered to keep the food inside it safe to eat.
+
 ## Campfire, Oven and Wood Stove
 
 Campfires and ovens can be used to roast food and prepare advanced
 recipes, as well as to boil water for safe consumption and burn down
-any uncookable item into a burned mess.
+any uncookable item into a burned mess (disappears after a while).
 
 You can roast almost anything remotely edible and it will feed a hungry mouth, but this is hardly fine cuisine.
 
@@ -75,17 +119,6 @@ You can roast almost anything remotely edible and it will feed a hungry mouth, b
   - Eat!
 
 A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
-
-## Cooking Pot
-
-You can make a cooking pot to make **stew**. The advantage of stew
-is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food
-indefinitely! NOTE: Filled wooden bowls will go bad (disappear) if not eaten.
-
-## Fridge
-
-You can keep food fresh and safe to eat by putting them in a fridge. The
-fridge needs to be powered to keep the food inside it safe to eat
 
 ## Ingredients
 
