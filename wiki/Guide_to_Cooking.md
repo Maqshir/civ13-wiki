@@ -120,6 +120,7 @@ A more detailed section on campfires and ovens could be found **[here](Guide_to_
 All great dishes require ingredients! Here you will find the
 ingredients needed to make your fantastic dishes, uma delicia!
 
+**Numbers in steps description mean there are more than one way to make something.**
 <table class="sortable">
 <thead>
 <tr class="header">
@@ -137,33 +138,33 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><p>Dough</p></td>
 <td><img src="assets/images/Dough.png"></td>
-<td><li>Hold a flour sack in the active hand and a container with water in the off-hand.</li><br><li>Click the flour sack. A piece of dough takes 5 u of water and 5 u of flour.</li></td>
+<td>- Hold a flour sack in the active hand and a container with water in the off-hand.<br>- Click the flour sack. A piece of dough takes 5 u of water and 5 u of flour.</td>
 </tr>
 <tr>
 <td><p>Egg</p></td>
 <td>
 <img src="assets/images/egg.png">
 </td>
-<td><p>Get a chicken or turkey to lay an egg</p></td>
+<td>Get a chicken or turkey to lay an egg.</td>
 </tr>
 <tr>
 <td><p>Cheese</p></td>
 <td>
 <img src="assets/images/Cheese.png">
 </td>
-<td><p>Collect milk in a container and add one piece of yeast.</p></td>
+<td>Collect milk in a container and add one piece of yeast.</td>
 </tr>
 <tr>
 <td><p>Meatball</p></td>
 <td>
 <img src="assets/images/Meatball.png">
 </td>
-<td><p>Add some flour to the slab of meat.</p></td>
+<td>1. Add some flour to the slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
 </tr>
 <tr>
 <td><p>Cutlets</p></td>
 <td><img src="assets/images/Cutlet.png"></td>
-<td><p>Cut a meat slab or fish meat with a knife.</p></td>
+<td>Cut a meat slab or fish meat with a knife.</td>
 </tr>
 </tbody>
 </table>
