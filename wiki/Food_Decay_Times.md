@@ -11,7 +11,7 @@
 <th style="background-color=#cc7000;">Time (minutes)</th>
 </tr>
 <tr>
-<td><b>Tea</b></td>
+<td width="10%"><b>Tea</b></td>
 <td>80</td>
 </tr>
 <tr>
