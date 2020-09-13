@@ -204,10 +204,11 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td><img src="assets/images/chicken_carcass.png"></td>
 <td>Chicken carcass</td>
 <td>Butcher a chicken. Do not roast it whole, it will not work. Cut it into separate parts (below) with a knife.</td>
+</tr>
 <tr>
 <td><img src="assets/images/chicken_breast.png"></td>
 <td>Chicken breast</td>
-<td>Cut a chicken carcass with a knife.</td>
+<td rowspan="3">Cut a chicken carcass with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/chicken_wing.png"></td>
