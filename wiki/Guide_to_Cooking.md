@@ -55,7 +55,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/cooking_pot.png"></td>
 <td><b>Cooking pot</b></td>
-<td>Made with 8 iron. Used to make <b>stew</b>. The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food indefinitely! <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.</td>
+<td>Made with 8 iron. Used to cook <b>stew</b> and boil food in general. One of the benefits of this fascinating cooking pot is the fact that its contents will never go stale or decompose, allowing you to store food indefinitely!<br> To boil meat, pasta or vegetables without stewing them, fill the pot with water, add a single item, wait for the message that says "X finishes boiling", then click the pot to remove what you have added.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dehydrator.png"></td>
@@ -138,7 +138,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/flour.png"></td>
 <td>Flour</td>
-<td>Grind <b>wheat</b>, <b>oat</b> or <b>barley</b> with the mill to get respective kind of flour. Each sack contains 10 units of flour.</td>
+<td>Grind wheat, oat or barley with the mill to get respective kind of flour. Each sack contains 10 units of flour.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Dough.png"></td>
@@ -168,12 +168,12 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/minced_meat.png"></td>
 <td>Minced meat</td>
-<td>1. Mince meat steaks and fish on the cutting board.<br>2. Grind meat and fish with the meat grinder.</td>
+<td>1. Put meat steaks and fish on the cutting board and mince with a knife.<br>2. Grind meat and fish with the meat grinder.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Meatball.png"></td>
 <td>Meatball</td>
-<td>1. Add some flour to a slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
+<td>1. Add flour to a slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/patty_raw.png"></td>
@@ -193,12 +193,31 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="assets/images/sausage_casing.png"></td>
 <td>Sausage casing</td>
-<td>Cut a stomach with a knife. Filled with minced meat to make sausages.</td>
+<td>Cut a stomach with a knife. Filling casings with minced meat makes sausages.</td>
 </tr>
 <tr>
 <td><img src="assets/images/tripe.png"></td>
 <td>Tripe</td>
 <td>Cut a stomach with a knife. Tripe is edible raw, but hardly a delicacy.</td>
+</tr>
+<tr>
+<td><img src="assets/images/chicken_carcass.png"></td>
+<td>Chicken carcass</td>
+<td>Butcher a chicken. Do not roast it whole, it will not work. Cut it into separate parts (below) with a knife.</td>
+<tr>
+<td><img src="assets/images/chicken_breast.png"></td>
+<td>Chicken breast</td>
+<td rowspan="3">Cut a chicken carcass with a knife.</td>
+</tr>
+<tr>
+<td><img src="assets/images/chicken_wing.png"></td>
+<td>Chicken wing</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/chicken_drumstick.png"></td>
+<td>Chicken drumstick</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -261,7 +280,7 @@ culinary art!
 <td>
 <img src="assets/images/Stew.png">
 </td>
-<td><p>Pour a bucket of water into a cooking pot and add any ingredient (EXCEPT SALTY INGREDIENTS) to the pot to make stew. The more ingredients the better!</p></td>
+<td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - **except salty ingredients**) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
 </tr>
 </tbody>
 </table>
