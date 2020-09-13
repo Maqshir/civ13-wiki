@@ -196,7 +196,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>Cut a stomach with a knife.</td>
 </tr>
 <tr>
-<td><img src="assets/images/sausage_casing.png"></td>
+<td><img src="assets/images/tripe.png"></td>
 <td>Tripe</td>
 <td>Cut a stomach with a knife. Tripe is edible raw, but hardly a delicacy.</td>
 </tr>
