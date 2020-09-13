@@ -120,7 +120,7 @@ A more detailed section on campfires and ovens could be found **[here](Guide_to_
 All great dishes require ingredients! Here you will find the
 ingredients needed to make your fantastic dishes, uma delicia!
 
-**Numbers in steps description mean there are more than one way to make something.**
+**Numbers in steps description mean there is more than one way to make something.**
 <table class="sortable">
 <thead>
 <tr class="header">
@@ -130,6 +130,11 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Salt</td>
+<td><img src="assets/images/salt.png"></td>
+<td>Boil saltwater.</td>
+</tr>
 <tr>
 <td><p>Flour</p></td>
 <td><img src="assets/images/flour.png"></td>
@@ -145,7 +150,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>
 <img src="assets/images/egg.png">
 </td>
-<td>Get a chicken or turkey to lay an egg.</td>
+<td>Get a chicken or a turkey to lay an egg.</td>
 </tr>
 <tr>
 <td><p>Cheese</p></td>
@@ -155,16 +160,31 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>Collect milk in a container and add one piece of yeast.</td>
 </tr>
 <tr>
-<td><p>Meatball</p></td>
+<td>Meat cutlet</td>
+<td><img src="assets/images/Cutlet.png"></td>
+<td>Cut a meat slab with a knife.</td>
+</tr>
+<tr>
+<td>Fish fillet</td>
+<td><img src="assets/images/fish_fillet.png"></td>
+<td>Cut a fish with a knife.</td>
+</tr>
+<tr>
+<td>Minced meat</td>
+<td><img src="assets/images/minced_meat.png"></td>
+<td>1. Mince meat steaks and fish on the cutting board.<br>2. Grind meat and fish with the meat grinder.</td>
+</tr>
+<tr>
+<td>Meatball</td>
 <td>
 <img src="assets/images/Meatball.png">
 </td>
-<td>1. Add some flour to the slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
+<td>1. Add some flour to a slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
 </tr>
 <tr>
-<td><p>Cutlets</p></td>
-<td><img src="assets/images/Cutlet.png"></td>
-<td>Cut a meat slab or fish meat with a knife.</td>
+<td>Meat patty</td>
+<td><img src="assets/images/patty_raw.png"></td>
+<td>Put a meatball on the cutting board and press it into a patty with a knife.</td>
 </tr>
 </tbody>
 </table>
