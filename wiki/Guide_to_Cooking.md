@@ -121,89 +121,83 @@ All great dishes require ingredients! Here you will find the
 ingredients needed to make your fantastic dishes, uma delicia!
 
 **Numbers in the steps description mean there is more than one way to make something ("1" is one way, "2" - another, etc.)**
-<table class="sortable">
+<table>
 <thead>
 <tr class="header">
-<th scope = "col" style="width: 10%">Ingredient</th>
 <th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Ingredient</th>
 <th scope = "col" style="width: 10%">Steps</th>
 </tr>
 </thead>
 <tbody>
 <tr>
+<td width="5%"><img src="assets/images/salt.png"></td>
 <td>Salt</td>
-<td><img src="assets/images/salt.png"></td>
 <td>Boil saltwater.</td>
 </tr>
 <tr>
-<td><p>Flour</p></td>
 <td><img src="assets/images/flour.png"></td>
+<td>Flour</td>
 <td>Grind <b>wheat</b>, <b>oat</b> or <b>barley</b> with the mill to get respective kind of flour. Each sack contains 10 units of flour.</td>
 </tr>
 <tr>
-<td><p>Dough</p></td>
 <td><img src="assets/images/Dough.png"></td>
+<td>Dough</td>
 <td>- Hold a flour sack in the active hand and a container with water in the off-hand.<br>- Click the flour sack. A piece of dough takes 5 u of water and 5 u of flour.</td>
 </tr>
 <tr>
+<td><img src="assets/images/egg.png"></td>
 <td><p>Egg</p></td>
-<td>
-<img src="assets/images/egg.png">
-</td>
 <td>Get a chicken or a turkey to lay an egg.</td>
 </tr>
 <tr>
-<td><p>Cheese</p></td>
-<td>
-<img src="assets/images/Cheese.png">
-</td>
+<td><img src="assets/images/Cheese.png"></td>
+<td>Cheese</td>
 <td>Collect milk in a container and add one piece of yeast.</td>
 </tr>
 <tr>
-<td>Meat cutlet</td>
 <td><img src="assets/images/Cutlet.png"></td>
+<td>Meat cutlet</td>
 <td>Cut a meat slab with a knife.</td>
 </tr>
 <tr>
-<td>Fish fillet</td>
 <td><img src="assets/images/fish_fillet.png"></td>
+<td>Fish fillet</td>
 <td>Cut a fish with a knife.</td>
 </tr>
 <tr>
-<td>Minced meat</td>
 <td><img src="assets/images/minced_meat.png"></td>
+<td>Minced meat</td>
 <td>1. Mince meat steaks and fish on the cutting board.<br>2. Grind meat and fish with the meat grinder.</td>
 </tr>
 <tr>
+<td><img src="assets/images/Meatball.png"></td>
 <td>Meatball</td>
-<td>
-<img src="assets/images/Meatball.png">
-</td>
 <td>1. Add some flour to a slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
 </tr>
 <tr>
-<td>Meat patty</td>
 <td><img src="assets/images/patty_raw.png"></td>
+<td>Meat patty</td>
 <td>Put a meatball on the cutting board and press it into a patty with a knife.</td>
 </tr>
 <tr>
-<td>Ham leg</td>
 <td><img src="assets/images/ham_leg.png"></td>
+<td>Ham leg</td>
 <td>Butcher a pig.</td>
 </tr>
 <tr>
-<td>Stomach</td>
 <td><img src="assets/images/stomach_cow.png"></td>
+<td>Stomach</td>
 <td>Butcher either a cow, a sheep, a goat or a pig. Cow stomach provides more of tripe and sausage casings (the latter starting from the 313 BC epoch).</td>
 </tr>
 <tr>
-<td>Sausage casing</td>
 <td><img src="assets/images/sausage_casing.png"></td>
+<td>Sausage casing</td>
 <td>Cut a stomach with a knife.</td>
 </tr>
 <tr>
-<td>Tripe</td>
 <td><img src="assets/images/sausage_casing.png"></td>
+<td>Tripe</td>
 <td>Cut a stomach with a knife. Tripe is edible raw, but hardly a delicacy.</td>
 </tr>
 </tbody>
