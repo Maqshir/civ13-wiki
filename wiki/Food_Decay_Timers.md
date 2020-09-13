@@ -147,6 +147,7 @@
 <tr>
 <td width="10%"><b>Dried fish</b></td>
 <td>180</td>
+</tr>
 </tbody>
 </table>
 
