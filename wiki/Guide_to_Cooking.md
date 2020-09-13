@@ -120,7 +120,7 @@ A more detailed section on campfires and ovens could be found **[here](Guide_to_
 All great dishes require ingredients! Here you will find the
 ingredients needed to make your fantastic dishes, uma delicia!
 
-**Numbers in steps description mean there is more than one way to make something.**
+**Numbers in the steps description mean there is more than one way to make something ("1" is one way, "2" - another, etc.)**
 <table class="sortable">
 <thead>
 <tr class="header">
@@ -185,6 +185,31 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>Meat patty</td>
 <td><img src="assets/images/patty_raw.png"></td>
 <td>Put a meatball on the cutting board and press it into a patty with a knife.</td>
+</tr>
+<tr>
+<td>Ham leg</td>
+<td><img src="assets/images/ham_leg.png"></td>
+<td>Butcher a pig.</td>
+</tr>
+<tr>
+<td>Ham leg</td>
+<td><img src="assets/images/ham_leg.png"></td>
+<td>Butcher a pig.</td>
+</tr>
+<tr>
+<td>Stomach</td>
+<td><img src="assets/images/stomach_cow.png"></td>
+<td>Butcher either a cow, a sheep, a goat or a pig. Cow stomach provides more of tripe and sausage casings (the latter starting from the 313 BC epoch).</td>
+</tr>
+<tr>
+<td>Sausage casing</td>
+<td><img src="assets/images/sausage_casing.png"></td>
+<td>Cut a stomach with a knife.</td>
+</tr>
+<tr>
+<td>Tripe</td>
+<td><img src="assets/images/sausage_casing.png"></td>
+<td>Cut a stomach with a knife. Tripe is edible raw, but hardly a delicacy.</td>
 </tr>
 </tbody>
 </table>
