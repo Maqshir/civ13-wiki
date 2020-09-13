@@ -45,7 +45,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/cooking_pot.png"></td>
 <td><b>Cooking pot</b></td>
-<td>Made with 8 iron. Used to make **stew**. The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food indefinitely! <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.</td>
+<td>Made with 8 iron. Used to make <b>stew</b>. The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you don't cook it with salty water or dried meat, as those contain salt and will dehydrate you. Another benefit is the fact that the contents of this fascinating cooking pot will never go stale or decompose, allowing you to store food indefinitely! <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dehydrator.png"></td>
@@ -65,7 +65,7 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 <tr>
 <td><img src="assets/images/canner.png"></td>
 <td><b>Canner</b></td>
-<td>Made with 7 iron. Used to can food.</td>
+<td>Made with 7 iron. Used to can food in <b>tin cans</b>.</td>
 </tr>
 </tbody>
 </table>
@@ -76,34 +76,15 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 
 Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round).
 
-Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any **crate** or a **fridge**.
+Check **[here](Food_Decay_Times "wikilink")** for the decay times for different **unstored** foods.
 
-Here is the rundown of decay timers for different **unstored** foods (minutes):
+**Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
 
-<table width="25%" class="sortable">
-<tbody>
-<tr>
-<th style="background-color=#cc7000;">Item</th>
-<th style="background-color=#cc7000;">Time (minutes)</th>
-</tr>
-<tr>
-<td width="10%"><b>Flour</b></td>
-<td>100</td>
-</tr>
-</tbody>
-</table>
+Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
-- **yeast** - 30; **sugar** - 45; **flour** - 100
-- **tea** - 80; **coffee** - 90
-- **peyote** - 60; 
-- **grapes** - 12; **olives** - 
+Decay time for the food stored in a **crate** is **doubled**.
 
-### Wooden crates
-
-### Fridge
-
-You can keep food fresh and safe to eat by putting them in a fridge. The
-fridge needs to be powered to keep the food inside it safe to eat.
+Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring "wikilink") to a [power source](Guide_to_Crafting#engines "wikilink") to work!**
 
 ## Campfire, Oven and Wood Stove
 
