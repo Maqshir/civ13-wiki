@@ -192,11 +192,6 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>Butcher a pig.</td>
 </tr>
 <tr>
-<td>Ham leg</td>
-<td><img src="assets/images/ham_leg.png"></td>
-<td>Butcher a pig.</td>
-</tr>
-<tr>
 <td>Stomach</td>
 <td><img src="assets/images/stomach_cow.png"></td>
 <td>Butcher either a cow, a sheep, a goat or a pig. Cow stomach provides more of tripe and sausage casings (the latter starting from the 313 BC epoch).</td>
