@@ -51,7 +51,7 @@ machinery and vehicles.
 This will bring up the crafting menu for a given material - a list of
 recipes for the items that can be made with this material at the present
 moment. **Many recipes require a certain research level, otherwise they
-will not be available!** Check the **[Full Crafting List](Full_Crafting_List")** for an item's research requirements. If you belong to a faction, you can see the current
+will not be available!** Check the **[Full Crafting List](Full_Crafting_List)** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
