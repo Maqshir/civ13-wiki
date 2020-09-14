@@ -38,8 +38,8 @@ machinery and vehicles.
 **Quick links:**
 
 - **[Mining](#mining "wikilink")**
-- **Making swords** - **[Anvil](#anvil "wikilink")**
-- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench "wikilink)**, **[Specialist armorsmithing bench](#specialist-armorsmithing-bench "wikilink")**
+- **Making swords and pre-1903 firearms** - **[Anvil](#anvil "wikilink")**
+- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench "wikilink)**; **[Specialist armorsmithing bench](#specialist-armorsmithing-bench "wikilink")**
 - **Making guns** - **[Gunsmithing bench](#gunsmithing-bench "wikilink")**
 
 ## Basics
