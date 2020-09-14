@@ -39,7 +39,7 @@ machinery and vehicles.
 
 - **[Mining](#mining)**
 - **Making swords and pre-1903 firearms** - **[Anvil](#anvil)**
-- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armorsmithing bench](#specialist-armorsmithing-bench)**
+- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armor bench](#specialist-armor-bench)**
 - **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
 
 ## Basics
