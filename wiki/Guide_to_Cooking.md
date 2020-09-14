@@ -335,23 +335,23 @@ Delicious Iberian ham.
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/jamon_container_full.png"></td>
+<td width="5%"><img src="assets/images/jamon_container_full.png"></td>
 <td>- Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs into a salting container.</td>
 </tr>
 <tr>
-<td><img src="assets/salting_container_salting.png"></td>
+<td><img src="assets/images/salting_container_salting.png"></td>
 <td>- Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
 </tr>
 <tr>
-<td><img src="assets/jamon_drying.png"></td>
+<td><img src="assets/images/jamon_drying.png"></td>
 <td>- Hang the salted ham on a drying rack, up to 3 legs on a rack. Drying takes 20 minutes.</td>
 </tr>
 <tr>
-<td><img src="assets/jamon_dried.png"></td>
+<td><img src="assets/images/jamon_dried.png"></td>
 <td>- When drying is over, slice dried ham with a knife, 5 slices per leg.</td>
 </tr>
 <tr>
-<td><img src="assets/jamon_slice.png"></td>
+<td><img src="assets/images/jamon_slice.png"></td>
 <td>- Enjoy! Pair with some good red wine and Iberian cheeses.</td>
 </tr>
 </tbody>
@@ -368,23 +368,23 @@ Delicious Iberian ham.
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/salami_container_full.png"></td>
+<td width="5%"><img src="assets/images/salami_container_full.png"></td>
 <td>- Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages into a salting container.</td>
 </tr>
 <tr>
-<td><img src="assets/salting_container_salting.png"></td>
+<td><img src="assets/images/salting_container_salting.png"></td>
 <td>- Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
 </tr>
 <tr>
-<td><img src="assets/salami_drying.png"></td>
+<td><img src="assets/images/salami_drying.png"></td>
 <td>- Hang the salted sausages on a drying rack, up to 5 sausages on a rack. Drying takes 2.5 minutes.</td>
 </tr>
 <tr>
-<td><img src="assets/salami_dried.png"></td>
+<td><img src="assets/images/salami_dried.png"></td>
 <td>- When drying is over, slice salami with a knife, 4 slices per leg.</td>
 </tr>
 <tr>
-<td><img src="assets/salami_slice.png"></td>
+<td><img src="assets/images/salami_slice.png"></td>
 <td>- Enjoy!</td>
 </tr>
 </tbody>
@@ -430,7 +430,7 @@ Delicious Iberian ham.
 
 Canning is a good way to preserve food for later consumption.
 
-<img src="assets/tin_can_large.png"><img src="assets/tin_can.png"><img src="assets/tin_can_small.png">
+<img src="assets/images/tin_can_large.png"><img src="assets/images/tin_can.png"><img src="assets/images/tin_can_small.png">
 
 * Make tin cans with tin. Large cans hold 10 units, regular - 5, small - 3 units. 1 food item = 1 unit.
 * Fill cans with whatever food.
