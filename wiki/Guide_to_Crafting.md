@@ -17,16 +17,16 @@ machinery and vehicles.
 
 **Be sure to consult the following pages:**
 
-  - **[Full Crafting List](Full_Crafting_List "wikilink")** - contains
+  - **[Full Crafting List](Full_Crafting_List)** - contains
     the list of materials and detailed crafting recipes for most of the
     craftable items, save for those that require specific machinery or a
     workbench, such as anvil, bakelizer, gunsmithing bench etc.
 
-  - **[Guide to Farming](Guide_to_Farming "wikilink")** - includes the
+  - **[Guide to Farming](Guide_to_Farming)** - includes the
     list of the agricultural produce, of which
-    **[cotton](Full_Crafting_List#cloth "wikilink")**,
-    **[trees](Full_Crafting_List#wood "wikilink")**, and
-    **[hemp](Full_Crafting_List#rope "wikilink")** are of particular
+    **[cotton](Full_Crafting_List#cloth)**,
+    **[trees](Full_Crafting_List#wood)**, and
+    **[hemp](Full_Crafting_List#rope)** are of particular
     importance for crafting.
 
   - **[Guide to Ranching](Guide_to_Ranching "wikilink")** - includes the
@@ -39,7 +39,7 @@ machinery and vehicles.
 
 - **[Mining](#mining "wikilink")**
 - **Making swords and pre-1903 firearms** - **[Anvil](#anvil "wikilink")**
-- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench "wikilink)**; **[Specialist armorsmithing bench](#specialist-armorsmithing-bench "wikilink")**
+- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench "wikilink)** - **[Specialist armorsmithing bench](#specialist-armorsmithing-bench "wikilink")**
 - **Making guns** - **[Gunsmithing bench](#gunsmithing-bench "wikilink")**
 
 ## Basics
