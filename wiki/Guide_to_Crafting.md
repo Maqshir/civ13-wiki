@@ -35,6 +35,13 @@ machinery and vehicles.
     
    - **[Guide to Construction](Guide_to_Construction "wikilink")** - details on constructing walls, floors, doors etc.
 
+**Quick links:**
+
+- **[Mining](#mining "wikilink")**
+- **Making swords** - **[Anvil](#anvil "wikilink")**
+- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench "wikilink)**, **[Specialist armorsmithing bench](#specialist-armorsmithing-bench "wikilink")**
+- **Making guns** - **[Gunsmithing bench](#gunsmithing-bench "wikilink")**
+
 ## Basics
 
   - Have some material in your active hand
@@ -1170,9 +1177,9 @@ Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks "wikilink")**.
 
 * The maximum size of a tank is 5x5 tiles. Larger ones will not function properly due to technical reasons.
 
-  - A tank has to be of rectangular shape.
+* A tank has to be of rectangular shape.
 
-  - A tank is facing North by default.
+* A tank is facing North by default.
 
 |                                                                                            |                                                                                            |                                                                                          |                                                                                          |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
