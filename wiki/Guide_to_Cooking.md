@@ -6,10 +6,11 @@ Cooking is useful for making meat and water safe to consume, as well as
 increasing the nutrition value of every other non-meat food, like
 vegetables and wheat-derived products.
 
-Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood "wikilink")**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
+Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood)**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
 
 ## Kitchen implements
 
+See the **[Full Crafting List](Full_Crafting_List)** for more details about crafting the implements from the list.
 <table>
 <tbody>
 <tr>
@@ -88,13 +89,13 @@ Most foods will spoil and decay (read, vanish from existence) if left in the ope
 
 Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
-Check **[here](Food_Decay_Times "wikilink")** for the decay times for different **unstored** foods.
+Check **[here](Food_Decay_Times)** for the decay times for different **unstored** foods.
 
 **Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
 
 Decay time for the food stored in a **crate** is **doubled**.
 
-Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring "wikilink") to a [power source](Guide_to_Crafting#engines "wikilink") to work!**
+Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring) to a [power source](Guide_to_Crafting#engines) to work!**
 
 ## Campfire, Oven and Wood Stove
 
@@ -113,7 +114,7 @@ You can roast plenty of things: vegetables, meat, fish etc.
   - Wait for it to finish cooking/boiling.
   - Eat!
 
-A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
+A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove)**.
 
 ## Ingredients
 
@@ -315,6 +316,41 @@ culinary art!
 </table>
 
 #### Complex
+
+##### Jamon
+
+Delicious Iberian ham.
+
+<table>
+<thead>
+<tr class="header">
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/jamon_container_full.png">
+<td>- Take 3 ham legs and beat them with a hammer to remove the excess blood. Put 3 legs into a salting container.</td>
+</tr>
+<tr>
+<td width="5%"><img src="assets/jamon_salting.png">
+<td>- Fill the container with 3 piles of salt. Salting takes 5 minutes.</td>
+</tr>
+<tr>
+<td width="5%"><img src="assets/jamon_drying.png">
+<td>- Hang the salted ham on a drying rack, up to 3 legs on a rack. Drying takes 20 minutes.</td>
+</tr>
+<tr>
+<td width="5%"><img src="assets/jamon_dried.png">
+<td>- When drying is over, slice dried ham with a knife.</td>
+</tr>
+<tr>
+<td width="5%"><img src="assets/jamon_slice.png">
+<td>- Enjoy! Pair with some good red wine and Iberian cheeses.</td>
+</tr>
+</tbody>
+</table>
 
 ### Beverages
 
