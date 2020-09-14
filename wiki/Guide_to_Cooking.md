@@ -312,6 +312,11 @@ culinary art!
 <td>Stew</td>
 <td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - <b>except salty ingredients</b>) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
 </tr>
+<tr>
+<td><img src="assets/images/cod_salted.png"></td>
+<td>Salted cod</td>
+<td>Put up to 3 codfish in a salting container, add 3 piles of salt and wait 6 minutes.</td>
+</tr>
 </tbody>
 </table>
 
@@ -331,23 +336,56 @@ Delicious Iberian ham.
 <tbody>
 <tr>
 <td width="5%"><img src="assets/jamon_container_full.png">
-<td>- Take 3 ham legs and beat them with a hammer to remove the excess blood. Put 3 legs into a salting container.</td>
+<td>- Take a ham leg and beat them with a hammer to remove the excess blood. Put up to 3 legs into a salting container.</td>
 </tr>
 <tr>
-<td width="5%"><img src="assets/jamon_salting.png">
-<td>- Fill the container with 3 piles of salt. Salting takes 5 minutes.</td>
+<td><img src="assets/salting_container_salting.png">
+<td>- Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
 </tr>
 <tr>
-<td width="5%"><img src="assets/jamon_drying.png">
+<td><img src="assets/jamon_drying.png">
 <td>- Hang the salted ham on a drying rack, up to 3 legs on a rack. Drying takes 20 minutes.</td>
 </tr>
 <tr>
-<td width="5%"><img src="assets/jamon_dried.png">
-<td>- When drying is over, slice dried ham with a knife.</td>
+<td><img src="assets/jamon_dried.png">
+<td>- When drying is over, slice dried ham with a knife, 5 slices per leg.</td>
 </tr>
 <tr>
-<td width="5%"><img src="assets/jamon_slice.png">
+<td><img src="assets/jamon_slice.png">
 <td>- Enjoy! Pair with some good red wine and Iberian cheeses.</td>
+</tr>
+</tbody>
+</table>
+
+##### Salami
+
+<table>
+<thead>
+<tr class="header">
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/salami_container_full.png">
+<td>- Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages into a salting container.</td>
+</tr>
+<tr>
+<td><img src="assets/salting_container_salting.png">
+<td>- Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/salami_drying.png">
+<td>- Hang the salted sausages on a drying rack, up to 5 sausages on a rack. Drying takes 2.5 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/salami_dried.png">
+<td>- When drying is over, slice salami with a knife, 4 slices per leg.</td>
+</tr>
+<tr>
+<td><img src="assets/salami_slice.png">
+<td>- Enjoy!</td>
 </tr>
 </tbody>
 </table>
@@ -387,3 +425,15 @@ Delicious Iberian ham.
 
   - Get a barrel and fill it with 100u of water 1u of yeast and 100 of
     flour.
+
+## Canning
+
+Canning is a good way to preserve food for later consumption.
+
+<img src="assets/tin_can_large.png"><img src="assets/tin_can.png"><img src="assets/tin_can_small.png">
+
+* Make tin cans with tin. Large cans hold 10 units, regular - 5, small - 3 units. 1 food item = 1 unit.
+* Fill cans with whatever food.
+* Seal cans with the canner, selecting a brand name and colours for the can's design.
+* When the time comes, open sealed cans with a knife, then click them with an empty hand to remove food.
+* Used cans could be recycled back into tin with the **[furnace](Guide_to_Crafting#furnace)**.
