@@ -336,7 +336,7 @@ Delicious Iberian ham.
 <tbody>
 <tr>
 <td width="5%"><img src="assets/jamon_container_full.png"></td>
-<td>- Take a ham leg and beat them with a hammer to remove the excess blood. Put up to 3 legs into a salting container.</td>
+<td>- Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs into a salting container.</td>
 </tr>
 <tr>
 <td><img src="assets/salting_container_salting.png"></td>
@@ -434,6 +434,6 @@ Canning is a good way to preserve food for later consumption.
 
 * Make tin cans with tin. Large cans hold 10 units, regular - 5, small - 3 units. 1 food item = 1 unit.
 * Fill cans with whatever food.
-* Seal cans with the canner, selecting a brand name and colours for the can's design.
+* Seal cans with the canner, entering a brand name and selecting colours for the can's design.
 * When the time comes, open sealed cans with a knife, then click them with an empty hand to remove food.
 * Used cans could be recycled back into tin with the **[furnace](Guide_to_Crafting#furnace)**.
