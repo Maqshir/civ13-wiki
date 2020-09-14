@@ -336,7 +336,7 @@ Delicious Iberian ham.
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/jamon_container_full.png"></td>
-<td>Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs into a salting container.</td>
+<td>Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs in a salting container.</td>
 </tr>
 <tr>
 <td><img src="assets/images/salting_container_salting.png"></td>
@@ -369,7 +369,7 @@ Delicious Iberian ham.
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/salami_container_full.png"></td>
-<td>Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages into a salting container.</td>
+<td>Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages in a salting container.</td>
 </tr>
 <tr>
 <td><img src="assets/images/salting_container_salting.png"></td>
