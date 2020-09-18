@@ -71,7 +71,7 @@ All those aquatic edibles.
 <tr>
 <td><img src="assets/images/lobster.png"></td>
 <td><b>Lobster</b></td>
-<td>Caught with the fishing cage. Boiled lobster goes good with beer.</td></td>
+<td>Caught with the fishing cage. Boiled lobster goes good with beer.</td>
 </tr>
 <tr>
 <td><img src="assets/images/octopus.png"></td>
