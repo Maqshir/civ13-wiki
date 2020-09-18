@@ -492,7 +492,7 @@ Here is how long 1 unit of different fuel will last (minutes):
 ### Campfire, iron oven and wood stove
 
 Essentially, these three have the same functions - to fire **[Clay](Full_Crafting_List#clay)** items and to
-**[cook](Guide_to_Cooking)** (with an added bonus of keeping you warm when you are within 1 tile of them). There are two main differences
+**[cook](Guide_to_Cooking)** (with an added bonus of keeping you warm in winter chill when you are within 1 tile of them). There are two main differences
 between a campfire, an oven and a stove. The first one is their
 capacity, i.e. the number of objects they can hold and process
 simultaneously. You can think about it as a number of 'production
