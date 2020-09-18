@@ -13,6 +13,8 @@ Remember to check the **[Guide to Cooking](Guide_to_Cooking)** once you come hom
 
 Alternately, you can build a **fishing cage** in water for a more passive approach.
 
+If you have fished out a tile completely and there is no more fish, come back later - clueless creatures should appear at the same spot.
+
 ## Equipment
 
 Ways of parting fish and the like with their element.
