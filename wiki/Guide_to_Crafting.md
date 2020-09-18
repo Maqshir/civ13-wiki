@@ -34,11 +34,12 @@ machinery and vehicles.
     crafting.
     
    - **[Guide to Construction](Guide_to_Construction)** - details on constructing walls, floors, doors etc.
+   
+   - **[Guide to Metallurgy](Guide_to_Metallurgy)** - smelting raw metal ores, blacksmithing and metalworking.
 
 **Quick links:**
 
 - **[Mining](#mining)**
-- **[Guide to Metallurgy](Guide_to_Metallurgy)**
 - **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy#anvils)**
 - **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armor bench](#specialist-armor-bench)**
 - **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
