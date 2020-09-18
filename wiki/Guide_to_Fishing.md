@@ -76,7 +76,7 @@ All those aquatic edibles.
 <tr>
 <td><img src="assets/images/octopus.png"></td>
 <td><b>Octopus</b></td>
-<td>Caught with the fishing cage. This seafood delicacy is a part of countless dishes around the world.</td></td>
+<td>Caught with the fishing cage. This seafood delicacy is a part of countless dishes around the world.</td>
 </tr>
 </tbody>
 </table>
