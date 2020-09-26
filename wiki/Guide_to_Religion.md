@@ -120,37 +120,45 @@ A list of all altars, note that there is no difference in any altar so you can m
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/woodaltar.png"></td>
-<td><b>Wood</b> Made with 20 wood.</td>
+<td width="8%"><b>Wood</b></td>
+<td width="20%">Made with 20 wood.</td>
+<td width="67%"></td>
 </tr>
 <tr>
 <td><img src="assets/images/bambooaltar.png"></td>
 <td><b>Bamboo</b></td>
 <td>Made with 20 bamboo.</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/stonealtar.png"></td>
 <td><b>Stone</b></td>
 <td>Made with 15 stone.</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/sandstonealtar.png"></td>
 <td><b>Sandstone</b></td>
 <td>Made with 15 sandstone.</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/marblealtar.png"></td>
 <td><b>Marble</b></td>
 <td>Made with 20 stone.</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/obsidianaltar.png"></td>
 <td><b>Obsidian</b></td>
 <td>Made with 15 obsidian.</td>
+<td></td>
 </tr>
 <tr>
 <td><img src="assets/images/ironaltar.png"></td>
 <td><b>Stone</b></td>
 <td>Made with 12 iron.</td>
+<td></td>
 </tr>
 </tbody>
 </table>
