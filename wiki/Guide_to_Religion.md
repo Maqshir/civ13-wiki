@@ -116,39 +116,60 @@ religions with altars.
 
 A list of all altars, note that there is no difference in any altar so you can make the one you like the most or fits your temple.
 
-Wood altar. Made from wood.
-
-<img src="assets/images/woodaltar.png">
-
-Stone altar. Made from stone.
-
-<img src="assets/images/stonealtar.png">
-
-Marble altar. Made from stone.
-
-<img src="assets/images/marblealtar.png">
-
-Bamboo altar. Made from bamboo.
-
-<img src="assets/images/bambooaltar.png">
-
-Iron altar. Made from iron.
-
-<img src="assets/images/ironaltar.png">
-
-Obsidian altar. Made from obsidian.
-
-<img src="assets/images/obsidianaltar.png">
-
-Sandstone altar. Made from sandstone.
-
-<img src="assets/images/sandstonealtar.png">
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/woodaltar.png"></td>
+<td><b>Wood</b></td>
+<td>Made with 20 wood.</td>
+</tr>
+<tr>
+<td><img src="assets/images/bambooaltar.png"></td>
+<td><b>Bamboo</b></td>
+<td>Made with 20 bamboo.</td>
+</tr>
+<tr>
+<td><img src="assets/images/stonealtar.png"></td>
+<td><b>Stone</b></td>
+<td>Made with 15 stone.</td>
+</tr>
+<tr>
+<td><img src="assets/images/sandstonealtar.png"></td>
+<td><b>Sandstone</b></td>
+<td>Made with 15 sandstone.</td>
+</tr>
+<tr>
+<td><img src="assets/images/marblealtar.png"></td>
+<td><b>Marble</b></td>
+<td>Made with 20 stone.</td>
+</tr>
+<tr>
+<td><img src="assets/images/obsidianaltar.png"></td>
+<td><b>Obsidian</b></td>
+<td>Made with 15 obsidian.</td>
+</tr>
+<tr>
+<td><img src="assets/images/ironaltar.png"></td>
+<td><b>Stone</b></td>
+<td>Made with 12 iron.</td>
+</tr>
+</tbody>
+</table>
 
 #### Statues
 
 A list of all statues of both stones, its good to know them if you want to make an animal themed religion.
 
 ##### Stone statues
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/monkeystatue.png"></td>
+<td><b>Monkey</b></td>
+</tr>
+</tbody>
+</table>
 
 Monkey statue.
 
