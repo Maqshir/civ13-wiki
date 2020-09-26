@@ -225,13 +225,13 @@ logs and choose a design.
 <b>Regular</b></td>
 <td><img src="assets/images/wall_oriental_braced.png">
 <b>Braced</b></td>
-<td><img src="assets/images/wall_villa_oriental_two_panels.png">
+<td><img src="assets/images/wall_oriental_two_panels.png">
 <b>Two panelled</b></td>
-<td><img src="assets/images/wall_villa_oriental_two_panels_braced.png">
+<td><img src="assets/images/wall_oriental_two_panels_braced.png">
 <b>Two panelled braced</b></td>
-<td><img src="assets/images/wall_villa_oriental_three_panels.png">
+<td><img src="assets/images/wall_oriental_three_panels.png">
 <b>Three panelled</b></td>
-<td><img src="assets/images/wall_villa_oriental_three_panels_braced.png">
+<td><img src="assets/images/wall_oriental_three_panels_braced.png">
 <b>Three panelled braced</b></td>
 <td><img src="assets/images/doorway_oriental.png">
 <b>Doorway</b></td>
@@ -828,8 +828,8 @@ with a special note being that the wood floor could be set on fire.
 <tr>
 <td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami horizontal</b></td>
 <td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami vertical</b></td>
-<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami dark hor.</b></td>
-<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami dark ver.</b></td>
+<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami dark horizontal</b></td>
+<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami dark vertical</b></td>
 <td></td>
 </tr>
 </tbody>
@@ -1065,7 +1065,7 @@ and additional details.**
 <td><img src="assets/images/window_bamboo.png" title="3 bamboo on a bamboo wall frame (check Walls section)"></td><td>
 <b>Bamboo</b></td>
 <td><img src="assets/images/window_oriental.png" title="4 wood on a bamboo wall frame (check Walls section)"></td><td>
-<b>Bamboo</b></td>
+<b>Oriental</b></td>
 <td><img src="assets/images/window_stone.png" title="5 stone"></td><td>
 <b>Stone</b></td>
 <td><img src="assets/images/window_stone_full.png" title="5 stone"></td><td>
