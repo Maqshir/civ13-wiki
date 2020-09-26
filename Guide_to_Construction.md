@@ -237,7 +237,7 @@ logs and choose a design.
 <b>Doorway</b></td>
 </tr>
 <tr>
-<td><b>All</b></td>
+<td colspan="7"><b>All</b></td>
 </tr>
 </tbody>
 </table>
@@ -826,10 +826,10 @@ with a special note being that the wood floor could be set on fire.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo">&emsp;<b>Wood</b></td>
-<td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo">&emsp;<b>Fancy wood</b></td>
-<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Thatch</b></td>
-<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Thatch split</b></td>
+<td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami horizontal</b></td>
+<td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami vertical</b></td>
+<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami dark hor.</b></td>
+<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami dark ver.</b></td>
 <td></td>
 </tr>
 </tbody>
@@ -1064,7 +1064,7 @@ and additional details.**
 <b>Shoji</b></td>
 <td><img src="assets/images/window_bamboo.png" title="3 bamboo on a bamboo wall frame (check Walls section)"></td><td>
 <b>Bamboo</b></td>
-<td><img src="assets/images/window_oriental.png" title="4 woood on a bamboo wall frame (check Walls section)"></td><td>
+<td><img src="assets/images/window_oriental.png" title="4 wood on a bamboo wall frame (check Walls section)"></td><td>
 <b>Bamboo</b></td>
 <td><img src="assets/images/window_stone.png" title="5 stone"></td><td>
 <b>Stone</b></td>
