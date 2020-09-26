@@ -120,8 +120,7 @@ A list of all altars, note that there is no difference in any altar so you can m
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/woodaltar.png"></td>
-<td width="8%"><b>Wood</b></td>
-<td width="20%">Made with 20 wood.</td>
+<td><b>Wood</b> Made with 20 wood.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bambooaltar.png"></td>
