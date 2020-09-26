@@ -139,6 +139,20 @@ doors and doorways, such as medieval and shoji. More details below.
 </tbody>
 </table>
 
+<u><b>Bamboo wall frame</b></u>
+
+Made with 1 bamboo. Used as a base to build various walls, windows,
+doors and doorways, such as bamboo and oriental. More details below.
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/wall_frame_bamboo.png">
+<b>All</b></td>
+</tr>
+</tbody>
+</table>
+
 <u><b>Medieval</b></u>
 
 Made with 6 wood logs. A timber frame wall that comes in several
@@ -182,7 +196,7 @@ construct a wall frame first, then click it with a paper sheet.
 <u><b>Bamboo</b></u>
 
 Made with bamboo: wall - 3 bundles, doorway - 2. Fits in nicely with the
-jungle surroundings. To build, construct a wall frame first, then click
+jungle surroundings. To build, construct a bamboo wall frame first, then click
 it with bamboo bundles.
 
 <table>
@@ -191,6 +205,35 @@ it with bamboo bundles.
 <td><img src="assets/images/wall_bamboo.png">
 <b>Wall</b>&emsp;
 <img src="assets/images/doorway_bamboo.png">
+<b>Doorway</b></td>
+</tr>
+<tr>
+<td><b>All</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Oriental</b></u>
+
+Made with 6 wood logs. To build, construct a bamboo wall frame first, then click it with wood
+logs and choose a design.
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/wall_oriental.png">
+<b>Regular</b></td>
+<td><img src="assets/images/wall_oriental_braced.png">
+<b>Braced</b></td>
+<td><img src="assets/images/wall_villa_oriental_two_panels.png">
+<b>Two panelled</b></td>
+<td><img src="assets/images/wall_villa_oriental_two_panels_braced.png">
+<b>Two panelled braced</b></td>
+<td><img src="assets/images/wall_villa_oriental_three_panels.png">
+<b>Three panelled</b></td>
+<td><img src="assets/images/wall_villa_oriental_three_panels_braced.png">
+<b>Three panelled braced</b></td>
+<td><img src="assets/images/doorway_oriental.png">
 <b>Doorway</b></td>
 </tr>
 <tr>
@@ -585,14 +628,12 @@ accordingly.)
 <table>
 <tbody>
 <tr>
-<td width="40%"><img src="assets/images/wall_fortress.png">&emsp;
+<td width="30%"><img src="assets/images/wall_fortress.png">&emsp;
 <img src="assets/images/wall_fortress1.png">&emsp;
 <img src="assets/images/wall_fortress2.png">&emsp;
 <img src="assets/images/wall_fortress3.png">&emsp;
 <img src="assets/images/wall_fortress4.png">&emsp;
-<img src="assets/images/wall_fortress6.png">&emsp;
-<img src="assets/images/wall_fortress5.png">&emsp;
-<img src="assets/images/wall_fortress7.png"></td>
+<img src="assets/images/wall_fortress5.png">&emsp;</td>
 <td><img src="assets/images/archway_fortress_S.png">&emsp;
 <img src="assets/images/archway_fortress_E.png"></td>
 </tr>
@@ -779,6 +820,20 @@ underground. **Floors can be removed with the hammer.**
 The floors below are essentially identical, save for the appearance,
 with a special note being that the wood floor could be set on fire.
 **Hover the mouse cursor over an image to see the cost and the material.**
+
+<u><b>Bamboo floors</b></u>
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo">&emsp;<b>Wood</b></td>
+<td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo">&emsp;<b>Fancy wood</b></td>
+<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Thatch</b></td>
+<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Thatch split</b></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 <u><b>Wood floors</b></u>
 
@@ -1007,7 +1062,9 @@ and additional details.**
 <b>Medieval</b></td>
 <td><img src="assets/images/window_shoji.png" title="1 paper sheet on a wall frame (check Walls section)"></td><td>
 <b>Shoji</b></td>
-<td><img src="assets/images/window_bamboo.png" title="3 bamboo on a wall frame (check Walls section)"></td><td>
+<td><img src="assets/images/window_bamboo.png" title="3 bamboo on a bamboo wall frame (check Walls section)"></td><td>
+<b>Bamboo</b></td>
+<td><img src="assets/images/window_oriental.png" title="4 woood on a bamboo wall frame (check Walls section)"></td><td>
 <b>Bamboo</b></td>
 <td><img src="assets/images/window_stone.png" title="5 stone"></td><td>
 <b>Stone</b></td>
@@ -1015,11 +1072,10 @@ and additional details.**
 <b>Full stone</b></td>
 <td><img src="assets/images/window_villa.png" title="1 roman stucco on a stone window frame"></td><td>
 <b>Villa</b></td>
-<td><img src="assets/images/window_villa_full.png" title="1 roman stucco on a full stone window frame"></td><td>
-<b>Full villa</b></td>
-<td></td>
 </tr>
 <tr>
+<td><img src="assets/images/window_villa_full.png" title="1 roman stucco on a full stone window frame"></td><td>
+<b>Full villa</b></td>
 <td><img src="assets/images/window_red_earth_full.png" title="1 stucco on a wood window frame"></td><td>
 <b>Full red earth</b></td>
 <td><img src="assets/images/window_sumerian.png" title="Built like a Sumerian wall - choose Window while building (check Walls section)"></td><td>
@@ -1032,9 +1088,6 @@ and additional details.**
 <b>Brick</b></td>
 <td><img src="assets/images/window_brick_full.png" title="Built like a brick wall - choose Full Window while building (check Walls section)"></td><td>
 <b>Full brick</b></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
