@@ -826,10 +826,14 @@ with a special note being that the wood floor could be set on fire.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami horizontal</b></td>
-<td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami vertical</b></td>
-<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo">&emsp;<b>Tatami dark horizontal</b></td>
-<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo">&emsp;<b>Tatami dark vertical</b></td>
+<td><img src="assets/images/floor_tatami_horizontal.png" title="0.75 bamboo"></td>
+<td><b>Tatami horizontal</b></td>
+<td><img src="assets/images/floor_tatami_vertical.png" title="0.75 bamboo"></td>
+<td><b>Tatami vertical</b></td>
+<td><img src="assets/images/floor_tatami_dark_horizontal.png" title="0.75 bamboo"</td>
+<td><b>Tatami dark horizontal</b></td>
+<td><img src="assets/images/floor_tatami_dark_vertical.png" title="0.75 bamboo"></td>
+<td><b>Tatami dark vertical</b></td>
 <td></td>
 </tr>
 </tbody>
