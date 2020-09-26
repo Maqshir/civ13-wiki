@@ -175,46 +175,53 @@ A list of all statues of both stones, its good to know them if you want to make 
 <td width="5%"><img src="assets/images/monkeystatue.png"></td>
 <td><b>Monkey</b></td>
 </tr>
+<tr>
+<td><img src="assets/images/bearstatue.png"></td>
+<td><b>Bear</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/goosestatue.png"></td>
+<td><b>Goose</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/mousestatue.png"></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/turkeystatue.png"></td>
+<td><b>Turkey</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/wolfstatue.png"></td>
+<td><b>Wolf</b></td>
+</tr>
 </tbody>
 </table>
 
-Monkey statue.
-
-<img src="assets/images/monkeystatue.png">
-
-Bear statue.
-
-<img src="assets/images/bearstatue.png">
-
-Goose statue.
-
-<img src="assets/images/goosestatue.png">
-
-Mouse statue.
-
-<img src="assets/images/mousestatue.png">
-
-Turkey statue.
-
-<img src="assets/images/turkeystatue.png">
-
-Wolf statue.
-
-<img src="assets/images/wolfstatue.png">
 
 ##### Sandstone statues
 
-Alligator statue.
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/alligatorstatue.png"></td>
+<td><b>Alligator</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/ewestatue.png"></td>
+<td><b>Ewe</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/ramstatue.png"></td>
+<td><b>Ram</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/mousestatue.png"></td>
+<td><b>Snake</b></td>
+</tr>
+</tbody>
+</table>
 
-<img src="assets/images/alligatorstatue.png">
-
-Ewe statue.
-
-<img src="assets/images/ewestatue.png">
-
-Ram statue.
-
-<img src="assets/images/ramstatue.png">
 
 Snake statue.
 
