@@ -1265,3 +1265,27 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 ## Fortifications
 
 ## Lighting
+It is not a proper Civilization until you can see city lights from space!
+
+Electric lights need to be **[connected](Guide_to_Crafting#wiring)** to an **[engine](Guide_to_Crafting#engines)** to work. **While connecting an electric light to a cable, do not stand on the same tile where the light is. Stand on a neighbouring tile where there is cable on the floor and click the light with the cable coil. This will connect the light to the cable on the floor.**
+
+Remember to restart the engine to power newly connected lights to the existing power network.
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/lighting_lamp_post.png"></td>
+<td width="15%"><b>Street lamp</b></td>
+<td width="80%">Made with 3 steel. No more bumping into your fellow neighbours in the dark street. Can be unsecured with the wrench.</td>
+</tr>
+<tr>
+<td><img src="assets/images/lighting_bulb.png"></td>
+<td><b>Light bulb</b></td>
+<td>Made with 2 glass. Choose <b>small lightbulb frame</b> in the crafting menu to build a fixture along with a bulb. It is built in front of the character, so if you want a lighbulb on a wall, for example, face it beforehand. Can be unsecured with the wrench. The <b>lightbulb</b> option on the crafting menu makes only the bulb.</td>
+</tr>
+<tr>
+<td><img src="assets/images/lighting_tube.png"></td>
+<td><b>Light tube</b></td>
+<td>Made with 3 glass. Choose <b>light tube frame</b> in the crafting menu to build a fixture along with a tube. It is built in front of the character, so if you want a light tube on a wall, for example, face it beforehand. Can be unsecured with the wrench. The <b>light tube</b> option on the crafting menu makes only the bulb.</td>
+</tr>
+</tbody>
+</table>
