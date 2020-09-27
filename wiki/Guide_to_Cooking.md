@@ -56,7 +56,7 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <tr>
 <td><img src="assets/images/pot_clay.png"><img src="assets/images/pot_tin.png"><img src="assets/images/pot_copper.png"><img src="assets/images/pot_copper_large.png"></td>
 <td><b>Pot</b></td>
-<td>Clay pot is made with 2 clay, tin pot - 3 tin, small copper pot - 3 copper, large - 5. Used to boil water to make it safe to drink (water from <b>wells</b> does not require boiling, unless the surrounding area is <b><a href="Guide_to_Hygiene#keeping-the-place-clean">unclean</a></b>.</td>
+<td>Clay pot is made with 2 clay (also needs firing in a campfire or an oven), tin pot - 3 tin, small copper pot - 3 copper, large - 5. Used to boil water to make it safe to drink (water from <b>wells</b> does not require boiling, unless the surrounding area is <b><a href="Guide_to_Hygiene#keeping-the-place-clean">unclean</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/cooking_pot.png"></td>
