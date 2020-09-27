@@ -1274,18 +1274,18 @@ Remember to restart the engine to power newly connected lights to the existing p
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/lighting_lamp_post.png"></td>
-<td width="15%"><b>Street lamp</b></td>
-<td width="80%">Made with 3 steel. No more bumping into your fellow neighbours in the dark street. Can be unsecured with the wrench.</td>
+<td><b>Street lamp</b></td>
+<td>Made with 3 steel. No more bumping into your fellow neighbours in the dark street. Can be unsecured with the wrench.</td>
 </tr>
 <tr>
 <td><img src="assets/images/lighting_bulb.png"></td>
 <td><b>Light bulb</b></td>
-<td>Made with 2 glass. Choose <b>small lightbulb frame</b> in the crafting menu to build a fixture along with a bulb. It is built in front of the character, so if you want a lighbulb on a wall, for example, face it beforehand. Can be unsecured with the wrench. The <b>lightbulb</b> option on the crafting menu makes only the bulb.</td>
+<td>Made with 2 glass. Choose <b>small lightbulb frame</b> in the crafting menu to build a fixture along with a bulb. It is built in front of the character, so if you want a lighbulb on a wall, for example, face it beforehand. Can be unsecured with the wrench and deconstructed with a hammer. The <b>lightbulb</b> option on the crafting menu makes only the bulb itself.</td>
 </tr>
 <tr>
 <td><img src="assets/images/lighting_tube.png"></td>
 <td><b>Light tube</b></td>
-<td>Made with 3 glass. Choose <b>light tube frame</b> in the crafting menu to build a fixture along with a tube. It is built in front of the character, so if you want a light tube on a wall, for example, face it beforehand. Can be unsecured with the wrench. The <b>light tube</b> option on the crafting menu makes only the bulb.</td>
+<td>Made with 3 glass. Choose <b>light tube frame</b> in the crafting menu to build a fixture along with a tube. It is built in front of the character, so if you want a light tube on a wall, for example, face it beforehand. Can be unsecured with the wrench and deconstructed with a hammer. The <b>light tube</b> option on the crafting menu makes only the tube itself.</td>
 </tr>
 </tbody>
 </table>
