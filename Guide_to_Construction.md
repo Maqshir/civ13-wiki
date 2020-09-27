@@ -484,7 +484,7 @@ different designs.
 <tr>
 <td><img src="assets/images/wall_stone.png">
 <b>Regular</b>&emsp;
-<img src="assets/images/wall_stone_brick.png">
+<img src="assets/images/wall_stone_brick_old.png">
 <b>Brick</b>&emsp;
 <img src="assets/images/wall_stone_cobbled.png">
 <b>Cobbled</b>&emsp;
